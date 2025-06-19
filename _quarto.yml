@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: docs # This is important for publishing later
+
+website:
+  title: "Dimitris Zaras - Data Scientist Portfolio" # I've updated this with your name
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: serenely-case-study.ipynb
+        text: "Serenely Case Study"
+
+format:
+  html:
+    theme: cosmo # You can try other themes like "sandstone" or "litera"
+    css: styles.css
+    toc: true # Adds a table of contents to your page

@@ -1,0 +1,25 @@
+---
+title: "About Me"
+---
+image: profile.jpg  # ---
+
+Hello! I'm Dimitris Zaras, a data scientist with a passion for uncovering insights from complex datasets and building predictive models that drive business decisions. My background in Sociology, Public Health, and Finance gives me a unique perspective on how to apply statistical rigor to solve real-world problems. I am currently seeking opportunities where I can leverage my skills in machine learning and data storytelling to make a tangible impact.
+
+## Technical Skills
+
+* **Languages:** Python (Pandas, NumPy, Scikit-learn), SQL, R (Tidyverse)
+* **Machine Learning:** Predictive Modeling (Classification, Regression), Clustering (K-Means), Feature Engineering, Model Evaluation
+* **Data Visualization:** Matplotlib, Seaborn, Plotly
+* **Databases:** PostgreSQL, MySQL, BigQuery * **Tools & Platforms:** Git, GitHub, VS Code, Docker, Quarto ## My Path to Data
+
+My journey into data science began during my time as a graduate student, where I realized that the most critical business and scientific decisions were increasingly reliant on data. I was fascinated by the process of transforming raw numbers into a clear narrative that could guide strategy. This led me to generalized, where I built my first predictive model and was immediately hooked on the power of machine learning. I thrive on the challenge of structuring a problem, exploring the data, and building a solution that works.
+
+## Beyond the Code
+
+When I'm not wrangling data, you can find me [Your Hobby, e.g., "hiking local trails", "experimenting with new recipes", "playing chess", "following European football"].
+
+## Let's Connect
+
+I'm always open to discussing new projects or opportunities in the data space. Feel free to connect with me!
+
+* **[LinkedIn](https://www.linkedin.com/in/your-profile-url/)** * **[Email](mailto:your.email@example.com)** ```

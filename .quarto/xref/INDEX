@@ -1,0 +1,14 @@
+{
+  "index.qmd": {
+    "index.html": "e7fbac8b"
+  },
+  "about.qmd": {
+    "about.html": "80636b36"
+  },
+  "posts/teladoc-case-study/index.qmd": {
+    "index.html": "1eb79e7d"
+  },
+  "serenely-case-study.ipynb": {
+    "serenely-case-study.html": "5e6111cb"
+  }
+}

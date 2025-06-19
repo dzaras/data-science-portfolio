@@ -1,0 +1,3812 @@
+﻿userid,age_range,gender,metro_area
+1,25 to 34,female,NYC
+2,25 to 34,female,LA
+3,45 to 54,female,SF
+4,25 to 34,female,NYC
+5,25 to 34,female,CHI
+6,25 to 34,prefer not to answer,None of above
+7,25 to 34,female,None of above
+8,25 to 34,male,PHL
+9,25 to 34,female,HOU
+10,18 to 24,female,NYC
+11,18 to 24,female,LA
+12,25 to 34,female,SF
+13,55+,female,LA
+14,35 to 44,non-binary,HOU
+15,25 to 34,female,SF
+16,35 to 44,female,SF
+17,35 to 44,male,SF
+18,45 to 54,prefer not to answer,DC
+19,45 to 54,female,SEA
+20,25 to 34,female,PHL
+21,25 to 34,male,None of above
+22,25 to 34,male,SEA
+23,25 to 34,female,SF
+24,25 to 34,female,LA
+25,35 to 44,female,LA
+26,25 to 34,male,DC
+27,35 to 44,male,None of above
+28,35 to 44,female,SEA
+29,25 to 34,male,SF
+30,25 to 34,female,None of above
+31,25 to 34,female,None of above
+32,25 to 34,female,SEA
+33,25 to 34,prefer not to answer,BOS
+34,25 to 34,non-binary,None of above
+35,35 to 44,male,LA
+36,25 to 34,female,DC
+37,25 to 34,male,LA
+38,25 to 34,female,None of above
+39,25 to 34,female,ATL
+40,25 to 34,female,None of above
+41,18 to 24,female,SF
+42,25 to 34,female,CHI
+43,25 to 34,female,LA
+44,25 to 34,prefer not to answer,SEA
+45,45 to 54,female,LA
+46,25 to 34,prefer not to answer,DC
+47,25 to 34,non-binary,LA
+48,25 to 34,female,HOU
+49,35 to 44,male,SEA
+50,25 to 34,prefer not to answer,SF
+51,25 to 34,male,SEA
+52,18 to 24,female,CHI
+53,35 to 44,female,LA
+54,25 to 34,female,NYC
+55,25 to 34,prefer not to answer,CHI
+56,25 to 34,prefer not to answer,CHI
+57,45 to 54,male,SF
+58,25 to 34,female,SF
+59,45 to 54,female,LA
+60,35 to 44,female,LA
+61,25 to 34,female,LA
+62,45 to 54,female,DC
+63,25 to 34,female,None of above
+64,55+,male,SEA
+65,25 to 34,female,HOU
+66,25 to 34,female,None of above
+67,25 to 34,female,SF
+68,35 to 44,prefer not to answer,LA
+69,35 to 44,female,HOU
+70,25 to 34,female,PHL
+71,45 to 54,female,None of above
+72,25 to 34,female,LA
+73,25 to 34,male,NYC
+74,25 to 34,female,LA
+75,25 to 34,male,None of above
+76,25 to 34,female,DC
+77,25 to 34,male,SF
+78,25 to 34,female,HOU
+79,18 to 24,female,None of above
+80,25 to 34,female,SF
+81,25 to 34,prefer not to answer,None of above
+82,35 to 44,female,SF
+83,25 to 34,prefer not to answer,NYC
+84,45 to 54,female,SF
+85,25 to 34,male,NYC
+86,25 to 34,prefer not to answer,SEA
+87,25 to 34,female,NYC
+88,25 to 34,female,None of above
+89,25 to 34,male,PHL
+90,25 to 34,male,SF
+91,25 to 34,prefer not to answer,SF
+92,25 to 34,prefer not to answer,CHI
+93,45 to 54,female,DC
+94,18 to 24,male,SF
+95,25 to 34,female,SEA
+96,25 to 34,female,DC
+97,25 to 34,male,LA
+98,35 to 44,female,SEA
+99,25 to 34,female,HOU
+100,25 to 34,female,SF
+101,25 to 34,male,LA
+102,25 to 34,female,SEA
+103,45 to 54,female,ATL
+104,25 to 34,prefer not to answer,HOU
+105,18 to 24,male,LA
+106,25 to 34,male,DC
+107,35 to 44,female,LA
+108,45 to 54,male,None of above
+109,25 to 34,male,LA
+110,35 to 44,male,SF
+111,25 to 34,prefer not to answer,DC
+112,25 to 34,female,NYC
+113,25 to 34,female,SF
+114,18 to 24,male,LA
+115,35 to 44,female,SF
+116,45 to 54,prefer not to answer,ATL
+117,25 to 34,female,ATL
+118,18 to 24,female,HOU
+119,35 to 44,female,LA
+120,35 to 44,female,SF
+121,18 to 24,female,SEA
+122,25 to 34,female,DC
+123,45 to 54,male,SF
+124,25 to 34,male,DC
+125,55+,female,None of above
+126,18 to 24,male,SEA
+127,25 to 34,female,None of above
+128,18 to 24,female,None of above
+129,25 to 34,prefer not to answer,ATL
+130,25 to 34,male,HOU
+131,25 to 34,female,SEA
+132,25 to 34,male,LA
+133,35 to 44,male,LA
+134,35 to 44,prefer not to answer,NYC
+135,35 to 44,female,SF
+136,35 to 44,female,SF
+137,25 to 34,male,None of above
+138,55+,male,NYC
+139,25 to 34,female,CHI
+140,18 to 24,prefer not to answer,PHL
+141,35 to 44,female,LA
+142,18 to 24,male,None of above
+143,25 to 34,non-binary,LA
+144,25 to 34,male,PHL
+145,25 to 34,female,None of above
+146,18 to 24,female,DC
+147,45 to 54,female,NYC
+148,35 to 44,female,LA
+149,35 to 44,male,PHL
+150,25 to 34,female,SF
+151,55+,male,SF
+152,18 to 24,male,None of above
+153,35 to 44,male,SF
+154,25 to 34,female,SF
+155,45 to 54,prefer not to answer,SF
+156,35 to 44,female,SF
+157,25 to 34,prefer not to answer,None of above
+158,35 to 44,female,PHL
+159,25 to 34,female,DC
+160,18 to 24,male,SF
+161,25 to 34,male,SF
+162,45 to 54,male,NYC
+163,18 to 24,male,LA
+164,35 to 44,prefer not to answer,None of above
+165,35 to 44,female,HOU
+166,35 to 44,prefer not to answer,None of above
+167,35 to 44,male,LA
+168,55+,male,LA
+169,25 to 34,male,SF
+170,35 to 44,prefer not to answer,SF
+171,25 to 34,female,NYC
+172,45 to 54,female,LA
+173,25 to 34,prefer not to answer,LA
+174,25 to 34,female,DC
+175,35 to 44,prefer not to answer,HOU
+176,35 to 44,male,DC
+177,45 to 54,female,NYC
+178,25 to 34,female,None of above
+179,45 to 54,female,SF
+180,35 to 44,male,SEA
+181,25 to 34,female,LA
+182,25 to 34,male,HOU
+183,25 to 34,prefer not to answer,NYC
+184,35 to 44,female,DC
+185,25 to 34,female,LA
+186,45 to 54,non-binary,LA
+187,25 to 34,non-binary,DC
+188,18 to 24,male,NYC
+189,25 to 34,female,LA
+190,25 to 34,prefer not to answer,SF
+191,35 to 44,male,None of above
+192,35 to 44,female,LA
+193,25 to 34,male,SF
+194,18 to 24,prefer not to answer,LA
+195,45 to 54,male,SF
+196,25 to 34,prefer not to answer,None of above
+197,35 to 44,female,SF
+198,55+,female,SEA
+199,55+,male,DC
+200,35 to 44,female,SF
+201,18 to 24,female,NYC
+202,25 to 34,female,None of above
+203,25 to 34,female,HOU
+204,35 to 44,female,SF
+205,25 to 34,female,None of above
+206,25 to 34,male,NYC
+207,25 to 34,prefer not to answer,NYC
+208,35 to 44,female,NYC
+209,25 to 34,female,NYC
+210,25 to 34,female,SF
+211,25 to 34,male,BOS
+212,25 to 34,female,LA
+213,25 to 34,prefer not to answer,DC
+214,18 to 24,male,LA
+215,18 to 24,prefer not to answer,SF
+216,18 to 24,male,DC
+217,35 to 44,female,SEA
+218,35 to 44,female,LA
+219,18 to 24,male,None of above
+220,35 to 44,prefer not to answer,LA
+221,35 to 44,prefer not to answer,NYC
+222,35 to 44,prefer not to answer,CHI
+223,25 to 34,prefer not to answer,LA
+224,18 to 24,female,LA
+225,18 to 24,female,NYC
+226,35 to 44,female,LA
+227,18 to 24,female,LA
+228,35 to 44,male,DC
+229,18 to 24,female,NYC
+230,18 to 24,female,ATL
+231,25 to 34,male,SEA
+232,25 to 34,female,DC
+233,35 to 44,prefer not to answer,None of above
+234,18 to 24,female,SEA
+235,35 to 44,female,SF
+236,25 to 34,male,LA
+237,18 to 24,female,None of above
+238,35 to 44,female,LA
+239,25 to 34,female,SF
+240,25 to 34,female,SEA
+241,35 to 44,male,NYC
+242,35 to 44,prefer not to answer,NYC
+243,18 to 24,prefer not to answer,NYC
+244,45 to 54,male,LA
+245,25 to 34,female,SEA
+246,35 to 44,female,NYC
+247,45 to 54,female,LA
+248,35 to 44,female,DC
+249,25 to 34,female,SEA
+250,35 to 44,female,SF
+251,25 to 34,female,SF
+252,25 to 34,non-binary,SEA
+253,25 to 34,prefer not to answer,None of above
+254,55+,female,SF
+255,35 to 44,male,None of above
+256,35 to 44,male,None of above
+257,25 to 34,female,SEA
+258,25 to 34,female,LA
+259,35 to 44,female,LA
+260,25 to 34,female,None of above
+261,35 to 44,female,SF
+262,25 to 34,female,NYC
+263,18 to 24,prefer not to answer,BOS
+264,35 to 44,prefer not to answer,LA
+265,35 to 44,female,PHL
+266,45 to 54,prefer not to answer,None of above
+267,18 to 24,male,HOU
+268,25 to 34,female,SF
+269,18 to 24,female,DC
+270,35 to 44,female,SF
+271,35 to 44,male,LA
+272,25 to 34,male,None of above
+273,25 to 34,prefer not to answer,None of above
+274,25 to 34,prefer not to answer,SF
+275,35 to 44,female,DC
+276,35 to 44,male,SEA
+277,18 to 24,prefer not to answer,NYC
+278,25 to 34,male,LA
+279,18 to 24,female,DC
+280,35 to 44,male,LA
+281,25 to 34,female,SF
+282,18 to 24,female,DC
+283,35 to 44,female,NYC
+284,35 to 44,female,SEA
+285,25 to 34,male,DC
+286,25 to 34,female,None of above
+287,25 to 34,male,SEA
+288,35 to 44,prefer not to answer,SF
+289,35 to 44,female,SF
+290,45 to 54,male,HOU
+291,35 to 44,female,LA
+292,25 to 34,female,CHI
+293,25 to 34,prefer not to answer,None of above
+294,35 to 44,non-binary,SEA
+295,35 to 44,male,SF
+296,55+,female,None of above
+297,45 to 54,female,NYC
+298,25 to 34,female,SEA
+299,35 to 44,female,None of above
+300,35 to 44,female,None of above
+301,25 to 34,male,SF
+302,25 to 34,female,SF
+303,35 to 44,female,SF
+304,35 to 44,male,SF
+305,55+,female,HOU
+306,25 to 34,female,HOU
+307,45 to 54,male,SEA
+308,25 to 34,male,NYC
+309,25 to 34,female,SF
+310,18 to 24,prefer not to answer,DC
+311,18 to 24,male,DC
+312,18 to 24,male,SEA
+313,35 to 44,prefer not to answer,NYC
+314,35 to 44,female,SF
+315,45 to 54,female,DC
+316,25 to 34,male,HOU
+317,25 to 34,female,SF
+318,35 to 44,female,DC
+319,25 to 34,male,LA
+320,35 to 44,female,CHI
+321,35 to 44,male,DC
+322,25 to 34,male,SF
+323,35 to 44,prefer not to answer,SF
+324,35 to 44,female,LA
+325,25 to 34,female,NYC
+326,35 to 44,male,DC
+327,25 to 34,female,CHI
+328,45 to 54,male,None of above
+329,45 to 54,female,DC
+330,25 to 34,prefer not to answer,DC
+331,18 to 24,female,SEA
+332,25 to 34,female,ATL
+333,25 to 34,female,None of above
+334,35 to 44,male,SF
+335,18 to 24,non-binary,DC
+336,35 to 44,male,None of above
+337,35 to 44,prefer not to answer,LA
+338,25 to 34,female,DC
+339,35 to 44,female,BOS
+340,35 to 44,female,BOS
+341,25 to 34,female,LA
+342,25 to 34,female,NYC
+343,18 to 24,non-binary,SF
+344,35 to 44,female,LA
+345,35 to 44,male,HOU
+346,25 to 34,female,LA
+347,35 to 44,prefer not to answer,LA
+348,45 to 54,female,SEA
+349,45 to 54,prefer not to answer,None of above
+350,35 to 44,prefer not to answer,None of above
+351,35 to 44,female,LA
+352,25 to 34,female,DC
+353,18 to 24,female,DC
+354,35 to 44,prefer not to answer,NYC
+355,25 to 34,male,LA
+356,25 to 34,male,SF
+357,25 to 34,female,None of above
+358,25 to 34,female,NYC
+359,35 to 44,female,LA
+360,35 to 44,female,None of above
+361,25 to 34,female,SF
+362,25 to 34,male,SEA
+363,25 to 34,prefer not to answer,DC
+364,35 to 44,prefer not to answer,None of above
+365,18 to 24,prefer not to answer,DC
+366,18 to 24,female,None of above
+367,45 to 54,female,NYC
+368,35 to 44,prefer not to answer,LA
+369,25 to 34,male,SF
+370,25 to 34,male,None of above
+371,45 to 54,male,None of above
+372,18 to 24,non-binary,NYC
+373,35 to 44,female,NYC
+374,18 to 24,prefer not to answer,SF
+375,25 to 34,female,SF
+376,35 to 44,female,NYC
+377,45 to 54,female,None of above
+378,35 to 44,female,LA
+379,35 to 44,female,DC
+380,18 to 24,female,None of above
+381,25 to 34,prefer not to answer,HOU
+382,25 to 34,female,SF
+383,18 to 24,female,SF
+384,25 to 34,prefer not to answer,NYC
+385,25 to 34,male,SF
+386,25 to 34,female,DC
+387,25 to 34,female,None of above
+388,25 to 34,female,PHL
+389,25 to 34,male,SF
+390,45 to 54,male,None of above
+391,35 to 44,female,SEA
+392,35 to 44,prefer not to answer,DC
+393,35 to 44,female,None of above
+394,18 to 24,male,LA
+395,25 to 34,female,DC
+396,25 to 34,female,HOU
+397,45 to 54,female,DC
+398,35 to 44,female,HOU
+399,35 to 44,male,SF
+400,25 to 34,prefer not to answer,SEA
+401,35 to 44,prefer not to answer,HOU
+402,35 to 44,female,DC
+403,35 to 44,male,SF
+404,35 to 44,male,None of above
+405,25 to 34,male,None of above
+406,25 to 34,female,DC
+407,18 to 24,male,None of above
+408,35 to 44,female,BOS
+409,45 to 54,prefer not to answer,DC
+410,25 to 34,female,DC
+411,35 to 44,male,CHI
+412,35 to 44,male,ATL
+413,45 to 54,female,PHL
+414,45 to 54,female,SEA
+415,35 to 44,female,NYC
+416,18 to 24,female,NYC
+417,25 to 34,female,SEA
+418,25 to 34,prefer not to answer,SF
+419,35 to 44,female,NYC
+420,35 to 44,male,DC
+421,25 to 34,female,LA
+422,45 to 54,female,PHL
+423,25 to 34,non-binary,SF
+424,35 to 44,female,SF
+425,25 to 34,female,ATL
+426,25 to 34,female,HOU
+427,45 to 54,female,SF
+428,35 to 44,female,SF
+429,25 to 34,female,SF
+430,25 to 34,prefer not to answer,LA
+431,18 to 24,female,PHL
+432,35 to 44,female,SEA
+433,25 to 34,non-binary,LA
+434,25 to 34,male,DC
+435,35 to 44,male,CHI
+436,25 to 34,male,LA
+437,25 to 34,male,NYC
+438,25 to 34,male,SEA
+439,25 to 34,male,HOU
+440,25 to 34,prefer not to answer,DC
+441,35 to 44,female,None of above
+442,18 to 24,female,SF
+443,45 to 54,male,SF
+444,35 to 44,male,None of above
+445,35 to 44,female,SF
+446,35 to 44,male,SF
+447,18 to 24,female,None of above
+448,25 to 34,female,NYC
+449,25 to 34,female,LA
+450,25 to 34,female,DC
+451,35 to 44,female,PHL
+452,18 to 24,female,SEA
+453,25 to 34,male,LA
+454,35 to 44,male,SEA
+455,25 to 34,male,SF
+456,25 to 34,prefer not to answer,SF
+457,45 to 54,female,LA
+458,35 to 44,male,SEA
+459,45 to 54,female,None of above
+460,25 to 34,female,HOU
+461,25 to 34,female,None of above
+462,35 to 44,prefer not to answer,DC
+463,25 to 34,female,DC
+464,25 to 34,prefer not to answer,SF
+465,18 to 24,male,LA
+466,45 to 54,male,DC
+467,25 to 34,prefer not to answer,NYC
+468,25 to 34,male,SF
+469,45 to 54,non-binary,CHI
+470,35 to 44,prefer not to answer,SF
+471,25 to 34,female,None of above
+472,18 to 24,female,DC
+473,18 to 24,male,SF
+474,55+,prefer not to answer,SF
+475,55+,female,NYC
+476,25 to 34,female,LA
+477,25 to 34,male,None of above
+478,35 to 44,male,SEA
+479,35 to 44,female,LA
+480,25 to 34,female,SEA
+481,35 to 44,prefer not to answer,HOU
+482,25 to 34,prefer not to answer,LA
+483,35 to 44,female,PHL
+484,35 to 44,female,None of above
+485,25 to 34,female,SEA
+486,25 to 34,prefer not to answer,DC
+487,35 to 44,male,DC
+488,35 to 44,female,DC
+489,18 to 24,female,LA
+490,25 to 34,prefer not to answer,LA
+491,25 to 34,female,None of above
+492,45 to 54,female,SF
+493,35 to 44,female,None of above
+494,25 to 34,male,PHL
+495,25 to 34,prefer not to answer,None of above
+496,25 to 34,male,DC
+497,25 to 34,male,SEA
+498,25 to 34,male,LA
+499,35 to 44,male,SF
+500,18 to 24,female,SF
+501,18 to 24,female,None of above
+502,25 to 34,female,None of above
+503,25 to 34,non-binary,None of above
+504,35 to 44,male,SF
+505,35 to 44,female,SEA
+506,25 to 34,female,HOU
+507,25 to 34,male,DC
+508,25 to 34,female,LA
+509,25 to 34,male,DC
+510,35 to 44,female,None of above
+511,45 to 54,male,None of above
+512,25 to 34,female,ATL
+513,35 to 44,male,PHL
+514,35 to 44,female,CHI
+515,25 to 34,female,BOS
+516,25 to 34,female,SF
+517,25 to 34,prefer not to answer,SF
+518,45 to 54,female,LA
+519,25 to 34,female,LA
+520,18 to 24,female,LA
+521,35 to 44,female,None of above
+522,35 to 44,non-binary,SEA
+523,35 to 44,female,SF
+524,35 to 44,female,NYC
+525,45 to 54,prefer not to answer,None of above
+526,45 to 54,male,LA
+527,35 to 44,male,None of above
+528,25 to 34,male,SF
+529,25 to 34,male,SF
+530,25 to 34,male,NYC
+531,45 to 54,female,SF
+532,18 to 24,male,None of above
+533,35 to 44,female,SF
+534,35 to 44,female,LA
+535,35 to 44,male,SF
+536,25 to 34,prefer not to answer,PHL
+537,25 to 34,male,None of above
+538,35 to 44,female,LA
+539,35 to 44,female,NYC
+540,35 to 44,female,NYC
+541,18 to 24,female,HOU
+542,25 to 34,prefer not to answer,SF
+543,25 to 34,male,SF
+544,35 to 44,male,SF
+545,35 to 44,female,DC
+546,35 to 44,female,NYC
+547,18 to 24,male,SEA
+548,25 to 34,female,DC
+549,35 to 44,male,CHI
+550,35 to 44,female,LA
+551,25 to 34,male,HOU
+552,25 to 34,female,LA
+553,35 to 44,male,LA
+554,35 to 44,female,NYC
+555,18 to 24,female,NYC
+556,35 to 44,female,LA
+557,25 to 34,male,LA
+558,25 to 34,female,SEA
+559,35 to 44,female,LA
+560,35 to 44,male,NYC
+561,25 to 34,prefer not to answer,SF
+562,25 to 34,female,LA
+563,35 to 44,prefer not to answer,PHL
+564,35 to 44,male,SF
+565,25 to 34,female,LA
+566,25 to 34,female,PHL
+567,25 to 34,female,SEA
+568,35 to 44,female,None of above
+569,45 to 54,female,PHL
+570,25 to 34,non-binary,PHL
+571,35 to 44,female,CHI
+572,45 to 54,female,None of above
+573,18 to 24,female,SEA
+574,25 to 34,female,CHI
+575,25 to 34,prefer not to answer,SF
+576,25 to 34,female,SF
+577,45 to 54,prefer not to answer,DC
+578,35 to 44,male,LA
+579,18 to 24,female,LA
+580,18 to 24,prefer not to answer,SF
+581,25 to 34,female,None of above
+582,45 to 54,prefer not to answer,LA
+583,18 to 24,male,LA
+584,18 to 24,female,DC
+585,35 to 44,female,None of above
+586,35 to 44,prefer not to answer,NYC
+587,25 to 34,male,PHL
+588,45 to 54,female,SF
+589,25 to 34,female,NYC
+590,25 to 34,female,SF
+591,18 to 24,male,SF
+592,35 to 44,female,DC
+593,18 to 24,male,DC
+594,25 to 34,male,NYC
+595,25 to 34,male,PHL
+596,45 to 54,female,SF
+597,25 to 34,male,CHI
+598,55+,female,SEA
+599,25 to 34,female,SF
+600,35 to 44,prefer not to answer,None of above
+601,35 to 44,male,DC
+602,35 to 44,female,None of above
+603,35 to 44,male,NYC
+604,18 to 24,female,SF
+605,18 to 24,prefer not to answer,None of above
+606,18 to 24,female,SF
+607,35 to 44,female,DC
+608,18 to 24,male,None of above
+609,25 to 34,female,LA
+610,35 to 44,female,LA
+611,25 to 34,female,LA
+612,25 to 34,female,None of above
+613,18 to 24,prefer not to answer,LA
+614,25 to 34,female,SF
+615,35 to 44,male,DC
+616,18 to 24,male,None of above
+617,35 to 44,female,LA
+618,18 to 24,prefer not to answer,SEA
+619,18 to 24,female,HOU
+620,25 to 34,female,DC
+621,18 to 24,male,SF
+622,25 to 34,male,SF
+623,25 to 34,male,None of above
+624,25 to 34,female,LA
+625,18 to 24,female,CHI
+626,35 to 44,female,None of above
+627,25 to 34,female,SEA
+628,25 to 34,female,SEA
+629,35 to 44,female,None of above
+630,25 to 34,female,SEA
+631,18 to 24,male,SEA
+632,25 to 34,female,SF
+633,55+,male,DC
+634,25 to 34,female,NYC
+635,35 to 44,male,LA
+636,25 to 34,prefer not to answer,PHL
+637,25 to 34,male,SF
+638,25 to 34,female,SEA
+639,35 to 44,female,LA
+640,18 to 24,female,None of above
+641,35 to 44,male,None of above
+642,18 to 24,prefer not to answer,SF
+643,25 to 34,female,LA
+644,18 to 24,non-binary,PHL
+645,25 to 34,male,SF
+646,25 to 34,female,PHL
+647,25 to 34,female,LA
+648,25 to 34,prefer not to answer,DC
+649,25 to 34,female,None of above
+650,35 to 44,prefer not to answer,None of above
+651,35 to 44,female,HOU
+652,25 to 34,female,BOS
+653,25 to 34,prefer not to answer,None of above
+654,25 to 34,female,PHL
+655,25 to 34,female,None of above
+656,25 to 34,male,LA
+657,35 to 44,male,LA
+658,25 to 34,male,LA
+659,25 to 34,female,None of above
+660,25 to 34,female,DC
+661,35 to 44,prefer not to answer,SF
+662,45 to 54,male,DC
+663,35 to 44,male,LA
+664,25 to 34,female,None of above
+665,25 to 34,prefer not to answer,SF
+666,25 to 34,female,LA
+667,35 to 44,female,SEA
+668,25 to 34,female,None of above
+669,18 to 24,female,SEA
+670,25 to 34,male,NYC
+671,25 to 34,female,SF
+672,18 to 24,male,DC
+673,45 to 54,female,LA
+674,18 to 24,female,None of above
+675,25 to 34,female,None of above
+676,35 to 44,female,SF
+677,35 to 44,prefer not to answer,SEA
+678,55+,male,SF
+679,18 to 24,male,BOS
+680,25 to 34,non-binary,LA
+681,25 to 34,female,LA
+682,35 to 44,male,SF
+683,25 to 34,male,LA
+684,25 to 34,male,NYC
+685,25 to 34,female,DC
+686,35 to 44,non-binary,CHI
+687,25 to 34,female,SEA
+688,25 to 34,female,SEA
+689,25 to 34,male,LA
+690,45 to 54,male,SEA
+691,25 to 34,female,LA
+692,25 to 34,female,None of above
+693,18 to 24,male,LA
+694,25 to 34,female,DC
+695,25 to 34,female,SEA
+696,25 to 34,female,LA
+697,18 to 24,male,SEA
+698,35 to 44,prefer not to answer,SF
+699,35 to 44,female,SF
+700,25 to 34,female,HOU
+701,25 to 34,female,LA
+702,35 to 44,female,None of above
+703,45 to 54,non-binary,LA
+704,35 to 44,female,DC
+705,35 to 44,female,CHI
+706,25 to 34,female,SF
+707,25 to 34,prefer not to answer,None of above
+708,18 to 24,male,SEA
+709,25 to 34,female,None of above
+710,18 to 24,female,SEA
+711,18 to 24,female,LA
+712,25 to 34,male,None of above
+713,35 to 44,female,SEA
+714,18 to 24,prefer not to answer,SF
+715,45 to 54,male,NYC
+716,25 to 34,prefer not to answer,ATL
+717,25 to 34,female,SF
+718,25 to 34,prefer not to answer,LA
+719,45 to 54,male,None of above
+720,35 to 44,female,None of above
+721,35 to 44,female,NYC
+722,35 to 44,prefer not to answer,None of above
+723,35 to 44,female,PHL
+724,25 to 34,male,NYC
+725,18 to 24,female,LA
+726,25 to 34,female,SF
+727,25 to 34,male,NYC
+728,35 to 44,female,ATL
+729,45 to 54,male,SF
+730,35 to 44,prefer not to answer,BOS
+731,25 to 34,prefer not to answer,SF
+732,25 to 34,male,SF
+733,25 to 34,prefer not to answer,DC
+734,25 to 34,female,LA
+735,25 to 34,female,DC
+736,25 to 34,female,SF
+737,45 to 54,male,DC
+738,25 to 34,female,LA
+739,25 to 34,male,LA
+740,35 to 44,female,DC
+741,25 to 34,female,SF
+742,25 to 34,female,LA
+743,18 to 24,female,HOU
+744,35 to 44,female,BOS
+745,18 to 24,female,NYC
+746,35 to 44,female,None of above
+747,35 to 44,male,PHL
+748,25 to 34,prefer not to answer,SF
+749,25 to 34,prefer not to answer,None of above
+750,18 to 24,male,LA
+751,35 to 44,female,CHI
+752,45 to 54,male,SF
+753,25 to 34,female,DC
+754,25 to 34,male,SEA
+755,35 to 44,male,SEA
+756,18 to 24,female,LA
+757,18 to 24,female,SEA
+758,25 to 34,female,LA
+759,35 to 44,male,None of above
+760,25 to 34,prefer not to answer,LA
+761,18 to 24,female,None of above
+762,25 to 34,female,LA
+763,35 to 44,prefer not to answer,SF
+764,18 to 24,female,SF
+765,25 to 34,male,LA
+766,25 to 34,non-binary,None of above
+767,25 to 34,female,DC
+768,35 to 44,male,HOU
+769,55+,male,LA
+770,35 to 44,female,SEA
+771,18 to 24,female,HOU
+772,25 to 34,male,LA
+773,18 to 24,female,None of above
+774,25 to 34,male,CHI
+775,18 to 24,female,NYC
+776,45 to 54,prefer not to answer,SF
+777,35 to 44,female,LA
+778,25 to 34,male,None of above
+779,25 to 34,non-binary,DC
+780,25 to 34,female,None of above
+781,25 to 34,female,LA
+782,25 to 34,male,LA
+783,35 to 44,prefer not to answer,DC
+784,25 to 34,male,LA
+785,35 to 44,female,SF
+786,45 to 54,female,NYC
+787,25 to 34,female,None of above
+788,35 to 44,female,LA
+789,25 to 34,male,None of above
+790,35 to 44,female,DC
+791,35 to 44,male,CHI
+792,18 to 24,male,NYC
+793,25 to 34,male,None of above
+794,25 to 34,female,SEA
+795,35 to 44,prefer not to answer,LA
+796,18 to 24,male,NYC
+797,25 to 34,female,None of above
+798,35 to 44,prefer not to answer,LA
+799,55+,male,HOU
+800,45 to 54,male,NYC
+801,25 to 34,prefer not to answer,LA
+802,25 to 34,female,None of above
+803,25 to 34,female,LA
+804,35 to 44,female,LA
+805,25 to 34,female,NYC
+806,25 to 34,prefer not to answer,SEA
+807,35 to 44,male,LA
+808,25 to 34,female,None of above
+809,25 to 34,male,LA
+810,18 to 24,female,None of above
+811,18 to 24,male,BOS
+812,35 to 44,female,SEA
+813,18 to 24,male,None of above
+814,25 to 34,male,SF
+815,25 to 34,female,HOU
+816,25 to 34,female,None of above
+817,35 to 44,female,LA
+818,35 to 44,female,PHL
+819,25 to 34,female,HOU
+820,18 to 24,male,SF
+821,25 to 34,female,BOS
+822,25 to 34,female,DC
+823,25 to 34,female,NYC
+824,25 to 34,prefer not to answer,HOU
+825,25 to 34,female,SF
+826,35 to 44,female,SF
+827,45 to 54,male,NYC
+828,25 to 34,female,LA
+829,18 to 24,female,DC
+830,45 to 54,prefer not to answer,SF
+831,25 to 34,non-binary,LA
+832,45 to 54,female,LA
+833,18 to 24,female,LA
+834,35 to 44,female,SEA
+835,35 to 44,prefer not to answer,SEA
+836,35 to 44,female,None of above
+837,35 to 44,male,None of above
+838,25 to 34,female,LA
+839,25 to 34,prefer not to answer,LA
+840,25 to 34,female,HOU
+841,25 to 34,female,LA
+842,45 to 54,prefer not to answer,None of above
+843,25 to 34,female,NYC
+844,25 to 34,female,None of above
+845,45 to 54,female,LA
+846,45 to 54,male,BOS
+847,25 to 34,male,ATL
+848,25 to 34,female,LA
+849,25 to 34,male,LA
+850,25 to 34,female,LA
+851,35 to 44,non-binary,NYC
+852,35 to 44,female,DC
+853,25 to 34,female,DC
+854,18 to 24,female,SF
+855,35 to 44,female,DC
+856,35 to 44,female,None of above
+857,18 to 24,female,NYC
+858,35 to 44,male,PHL
+859,35 to 44,prefer not to answer,SF
+860,35 to 44,male,None of above
+861,35 to 44,female,DC
+862,25 to 34,male,LA
+863,25 to 34,male,SEA
+864,35 to 44,male,SF
+865,35 to 44,prefer not to answer,SF
+866,45 to 54,female,NYC
+867,25 to 34,female,SEA
+868,35 to 44,prefer not to answer,SF
+869,35 to 44,male,None of above
+870,25 to 34,female,NYC
+871,18 to 24,female,SF
+872,18 to 24,prefer not to answer,NYC
+873,25 to 34,female,LA
+874,25 to 34,female,None of above
+875,25 to 34,female,NYC
+876,45 to 54,female,LA
+877,25 to 34,female,ATL
+878,25 to 34,female,SF
+879,18 to 24,female,LA
+880,25 to 34,female,PHL
+881,35 to 44,prefer not to answer,SF
+882,25 to 34,female,SEA
+883,35 to 44,female,SF
+884,25 to 34,female,NYC
+885,25 to 34,male,NYC
+886,25 to 34,male,NYC
+887,25 to 34,female,SF
+888,25 to 34,female,NYC
+889,55+,female,SF
+890,25 to 34,prefer not to answer,SF
+891,18 to 24,non-binary,DC
+892,18 to 24,male,DC
+893,25 to 34,female,None of above
+894,35 to 44,male,PHL
+895,25 to 34,female,SF
+896,35 to 44,female,None of above
+897,45 to 54,female,None of above
+898,25 to 34,female,PHL
+899,45 to 54,female,DC
+900,35 to 44,male,LA
+901,45 to 54,female,DC
+902,25 to 34,prefer not to answer,SEA
+903,35 to 44,female,DC
+904,45 to 54,female,SEA
+905,25 to 34,female,None of above
+906,45 to 54,female,DC
+907,25 to 34,male,LA
+908,45 to 54,prefer not to answer,LA
+909,45 to 54,female,LA
+910,25 to 34,female,SF
+911,35 to 44,female,None of above
+912,18 to 24,prefer not to answer,SF
+913,25 to 34,male,LA
+914,35 to 44,female,SEA
+915,45 to 54,male,SF
+916,35 to 44,male,SF
+917,35 to 44,female,SF
+918,55+,female,None of above
+919,25 to 34,female,DC
+920,25 to 34,female,LA
+921,25 to 34,female,LA
+922,35 to 44,female,SF
+923,18 to 24,prefer not to answer,SEA
+924,45 to 54,female,LA
+925,35 to 44,female,None of above
+926,35 to 44,male,BOS
+927,25 to 34,female,DC
+928,25 to 34,prefer not to answer,SEA
+929,25 to 34,prefer not to answer,LA
+930,35 to 44,female,LA
+931,35 to 44,non-binary,LA
+932,25 to 34,female,NYC
+933,35 to 44,prefer not to answer,SEA
+934,25 to 34,prefer not to answer,LA
+935,35 to 44,female,ATL
+936,35 to 44,prefer not to answer,LA
+937,35 to 44,female,LA
+938,18 to 24,male,SEA
+939,25 to 34,female,None of above
+940,18 to 24,male,SF
+941,25 to 34,female,None of above
+942,25 to 34,female,SF
+943,25 to 34,male,None of above
+944,45 to 54,female,DC
+945,35 to 44,female,LA
+946,18 to 24,female,LA
+947,35 to 44,prefer not to answer,LA
+948,35 to 44,female,DC
+949,25 to 34,prefer not to answer,None of above
+950,25 to 34,male,None of above
+951,45 to 54,female,HOU
+952,35 to 44,male,ATL
+953,25 to 34,male,DC
+954,25 to 34,prefer not to answer,SF
+955,35 to 44,male,None of above
+956,35 to 44,female,LA
+957,25 to 34,female,CHI
+958,35 to 44,female,ATL
+959,35 to 44,female,None of above
+960,18 to 24,male,None of above
+961,25 to 34,male,HOU
+962,45 to 54,female,SF
+963,35 to 44,male,None of above
+964,18 to 24,male,LA
+965,25 to 34,female,LA
+966,45 to 54,male,LA
+967,35 to 44,female,SF
+968,55+,female,LA
+969,18 to 24,male,HOU
+970,25 to 34,female,None of above
+971,35 to 44,male,PHL
+972,18 to 24,female,DC
+973,25 to 34,non-binary,LA
+974,25 to 34,female,SF
+975,35 to 44,female,PHL
+976,35 to 44,non-binary,SF
+977,25 to 34,male,SF
+978,25 to 34,male,None of above
+979,55+,male,SF
+980,45 to 54,male,SF
+981,25 to 34,female,None of above
+982,35 to 44,male,DC
+983,25 to 34,prefer not to answer,LA
+984,35 to 44,male,SF
+985,18 to 24,female,SF
+986,25 to 34,prefer not to answer,SF
+987,25 to 34,prefer not to answer,NYC
+988,25 to 34,female,LA
+989,25 to 34,male,None of above
+990,18 to 24,female,SF
+991,35 to 44,male,NYC
+992,35 to 44,male,NYC
+993,45 to 54,female,DC
+994,35 to 44,male,PHL
+995,35 to 44,prefer not to answer,ATL
+996,35 to 44,male,SEA
+997,25 to 34,non-binary,LA
+998,25 to 34,male,DC
+999,55+,female,NYC
+1000,25 to 34,male,SF
+1001,25 to 34,female,None of above
+1002,25 to 34,female,CHI
+1003,35 to 44,female,None of above
+1004,18 to 24,male,None of above
+1005,45 to 54,prefer not to answer,LA
+1006,18 to 24,male,SF
+1007,35 to 44,female,PHL
+1008,35 to 44,prefer not to answer,DC
+1009,18 to 24,male,LA
+1010,45 to 54,female,None of above
+1011,35 to 44,prefer not to answer,SF
+1012,35 to 44,female,SF
+1013,25 to 34,female,LA
+1014,35 to 44,female,None of above
+1015,35 to 44,male,LA
+1016,35 to 44,male,None of above
+1017,35 to 44,prefer not to answer,None of above
+1018,35 to 44,female,None of above
+1019,18 to 24,male,NYC
+1020,25 to 34,female,NYC
+1021,35 to 44,female,SF
+1022,25 to 34,male,SF
+1023,35 to 44,female,SEA
+1024,25 to 34,female,LA
+1025,25 to 34,female,HOU
+1026,25 to 34,prefer not to answer,DC
+1027,35 to 44,prefer not to answer,PHL
+1028,35 to 44,prefer not to answer,NYC
+1029,18 to 24,male,SF
+1030,25 to 34,female,PHL
+1031,35 to 44,female,PHL
+1032,35 to 44,female,None of above
+1033,25 to 34,female,SF
+1034,25 to 34,prefer not to answer,SEA
+1035,25 to 34,male,None of above
+1036,55+,prefer not to answer,None of above
+1037,25 to 34,male,None of above
+1038,35 to 44,prefer not to answer,LA
+1039,35 to 44,female,SEA
+1040,35 to 44,female,LA
+1041,25 to 34,female,SF
+1042,35 to 44,male,None of above
+1043,18 to 24,female,LA
+1044,35 to 44,female,None of above
+1045,35 to 44,female,None of above
+1046,35 to 44,female,ATL
+1047,45 to 54,female,LA
+1048,25 to 34,female,NYC
+1049,18 to 24,female,LA
+1050,35 to 44,female,DC
+1051,35 to 44,female,PHL
+1052,18 to 24,female,LA
+1053,35 to 44,female,None of above
+1054,25 to 34,male,LA
+1055,25 to 34,female,SF
+1056,25 to 34,female,SF
+1057,35 to 44,male,NYC
+1058,25 to 34,female,SEA
+1059,55+,male,NYC
+1060,45 to 54,female,NYC
+1061,35 to 44,female,None of above
+1062,25 to 34,male,None of above
+1063,18 to 24,male,SF
+1064,35 to 44,male,LA
+1065,18 to 24,female,None of above
+1066,35 to 44,female,SF
+1067,35 to 44,female,SF
+1068,35 to 44,female,DC
+1069,25 to 34,prefer not to answer,NYC
+1070,25 to 34,female,LA
+1071,35 to 44,prefer not to answer,LA
+1072,25 to 34,female,NYC
+1073,25 to 34,male,LA
+1074,35 to 44,male,LA
+1075,25 to 34,female,SF
+1076,25 to 34,prefer not to answer,None of above
+1077,25 to 34,male,None of above
+1078,35 to 44,male,LA
+1079,18 to 24,male,ATL
+1080,35 to 44,prefer not to answer,PHL
+1081,35 to 44,female,PHL
+1082,18 to 24,female,LA
+1083,25 to 34,female,NYC
+1084,25 to 34,prefer not to answer,HOU
+1085,25 to 34,prefer not to answer,SEA
+1086,45 to 54,female,SEA
+1087,25 to 34,male,SF
+1088,45 to 54,male,SF
+1089,35 to 44,male,LA
+1090,45 to 54,male,SF
+1091,35 to 44,male,NYC
+1092,45 to 54,male,DC
+1093,25 to 34,female,SF
+1094,55+,female,HOU
+1095,18 to 24,female,SF
+1096,35 to 44,prefer not to answer,None of above
+1097,25 to 34,female,LA
+1098,35 to 44,female,SEA
+1099,25 to 34,male,LA
+1100,35 to 44,female,LA
+1101,45 to 54,prefer not to answer,LA
+1102,35 to 44,male,DC
+1103,55+,female,BOS
+1104,35 to 44,female,LA
+1105,35 to 44,female,None of above
+1106,18 to 24,prefer not to answer,DC
+1107,45 to 54,female,SEA
+1108,35 to 44,male,SF
+1109,35 to 44,prefer not to answer,PHL
+1110,25 to 34,male,LA
+1111,35 to 44,female,None of above
+1112,35 to 44,male,LA
+1113,35 to 44,female,SF
+1114,35 to 44,male,NYC
+1115,25 to 34,female,HOU
+1116,35 to 44,female,SF
+1117,35 to 44,female,PHL
+1118,35 to 44,female,SF
+1119,35 to 44,prefer not to answer,SF
+1120,25 to 34,female,SF
+1121,25 to 34,prefer not to answer,None of above
+1122,18 to 24,female,None of above
+1123,35 to 44,prefer not to answer,None of above
+1124,25 to 34,female,LA
+1125,25 to 34,female,DC
+1126,55+,female,HOU
+1127,25 to 34,male,DC
+1128,18 to 24,female,HOU
+1129,18 to 24,female,None of above
+1130,25 to 34,female,None of above
+1131,25 to 34,female,LA
+1132,35 to 44,female,SF
+1133,25 to 34,male,SF
+1134,25 to 34,female,LA
+1135,45 to 54,female,LA
+1136,25 to 34,female,SF
+1137,45 to 54,male,NYC
+1138,18 to 24,female,NYC
+1139,18 to 24,male,SF
+1140,35 to 44,male,DC
+1141,25 to 34,female,None of above
+1142,45 to 54,female,LA
+1143,25 to 34,male,DC
+1144,25 to 34,male,LA
+1145,25 to 34,female,LA
+1146,35 to 44,male,PHL
+1147,35 to 44,male,SF
+1148,18 to 24,male,SEA
+1149,18 to 24,female,NYC
+1150,55+,prefer not to answer,LA
+1151,35 to 44,male,None of above
+1152,35 to 44,male,NYC
+1153,35 to 44,female,NYC
+1154,35 to 44,female,SF
+1155,35 to 44,male,LA
+1156,35 to 44,female,LA
+1157,25 to 34,female,None of above
+1158,18 to 24,male,None of above
+1159,45 to 54,female,DC
+1160,25 to 34,female,SF
+1161,25 to 34,female,DC
+1162,18 to 24,female,HOU
+1163,45 to 54,male,LA
+1164,25 to 34,prefer not to answer,DC
+1165,25 to 34,male,NYC
+1166,35 to 44,female,SF
+1167,18 to 24,female,ATL
+1168,25 to 34,female,None of above
+1169,25 to 34,male,LA
+1170,35 to 44,male,SF
+1171,35 to 44,prefer not to answer,SEA
+1172,25 to 34,female,SF
+1173,35 to 44,male,SF
+1174,25 to 34,female,None of above
+1175,45 to 54,male,DC
+1176,35 to 44,female,SF
+1177,35 to 44,male,SF
+1178,25 to 34,male,SEA
+1179,55+,female,SF
+1180,35 to 44,female,LA
+1181,35 to 44,female,None of above
+1182,35 to 44,female,SEA
+1183,25 to 34,female,NYC
+1184,18 to 24,female,LA
+1185,25 to 34,male,LA
+1186,35 to 44,female,SEA
+1187,25 to 34,female,SF
+1188,45 to 54,female,LA
+1189,35 to 44,prefer not to answer,LA
+1190,25 to 34,female,None of above
+1191,25 to 34,prefer not to answer,DC
+1192,25 to 34,male,DC
+1193,35 to 44,male,SEA
+1194,25 to 34,female,SF
+1195,25 to 34,male,LA
+1196,25 to 34,prefer not to answer,LA
+1197,45 to 54,female,NYC
+1198,35 to 44,prefer not to answer,None of above
+1199,45 to 54,prefer not to answer,DC
+1200,25 to 34,female,SEA
+1201,25 to 34,female,DC
+1202,35 to 44,male,LA
+1203,45 to 54,male,HOU
+1204,35 to 44,non-binary,LA
+1205,35 to 44,female,LA
+1206,25 to 34,male,BOS
+1207,45 to 54,female,LA
+1208,25 to 34,female,NYC
+1209,35 to 44,female,NYC
+1210,35 to 44,non-binary,SF
+1211,18 to 24,male,SEA
+1212,35 to 44,male,HOU
+1213,25 to 34,prefer not to answer,SF
+1214,18 to 24,female,DC
+1215,18 to 24,prefer not to answer,NYC
+1216,35 to 44,female,LA
+1217,35 to 44,prefer not to answer,SEA
+1218,25 to 34,male,PHL
+1219,25 to 34,male,SEA
+1220,18 to 24,prefer not to answer,PHL
+1221,35 to 44,male,SEA
+1222,35 to 44,male,BOS
+1223,18 to 24,male,NYC
+1224,25 to 34,female,LA
+1225,25 to 34,male,NYC
+1226,25 to 34,prefer not to answer,None of above
+1227,25 to 34,female,NYC
+1228,55+,female,None of above
+1229,35 to 44,male,HOU
+1230,35 to 44,female,None of above
+1231,25 to 34,female,None of above
+1232,25 to 34,female,SF
+1233,25 to 34,prefer not to answer,HOU
+1234,35 to 44,male,HOU
+1235,25 to 34,prefer not to answer,PHL
+1236,45 to 54,male,DC
+1237,25 to 34,female,SF
+1238,18 to 24,female,DC
+1239,45 to 54,male,SEA
+1240,25 to 34,female,DC
+1241,25 to 34,female,SEA
+1242,35 to 44,male,SEA
+1243,35 to 44,male,DC
+1244,18 to 24,female,SF
+1245,35 to 44,female,LA
+1246,45 to 54,female,LA
+1247,25 to 34,prefer not to answer,NYC
+1248,25 to 34,male,None of above
+1249,25 to 34,prefer not to answer,LA
+1250,25 to 34,female,DC
+1251,35 to 44,female,ATL
+1252,25 to 34,male,LA
+1253,35 to 44,male,SF
+1254,45 to 54,male,SEA
+1255,55+,male,DC
+1256,25 to 34,male,LA
+1257,18 to 24,female,LA
+1258,18 to 24,female,DC
+1259,45 to 54,male,None of above
+1260,18 to 24,female,SF
+1261,25 to 34,male,DC
+1262,18 to 24,prefer not to answer,None of above
+1263,25 to 34,male,CHI
+1264,35 to 44,female,DC
+1265,25 to 34,male,ATL
+1266,25 to 34,prefer not to answer,BOS
+1267,25 to 34,prefer not to answer,SF
+1268,45 to 54,prefer not to answer,PHL
+1269,25 to 34,female,SEA
+1270,35 to 44,female,LA
+1271,35 to 44,male,SF
+1272,25 to 34,male,None of above
+1273,25 to 34,female,SF
+1274,25 to 34,male,PHL
+1275,25 to 34,female,None of above
+1276,25 to 34,male,DC
+1277,35 to 44,female,LA
+1278,25 to 34,male,None of above
+1279,35 to 44,prefer not to answer,SF
+1280,25 to 34,female,DC
+1281,25 to 34,female,NYC
+1282,25 to 34,male,LA
+1283,35 to 44,male,DC
+1284,25 to 34,male,ATL
+1285,18 to 24,prefer not to answer,None of above
+1286,35 to 44,male,SEA
+1287,45 to 54,female,DC
+1288,35 to 44,male,LA
+1289,25 to 34,female,SEA
+1290,25 to 34,female,PHL
+1291,25 to 34,female,DC
+1292,35 to 44,male,DC
+1293,45 to 54,prefer not to answer,DC
+1294,35 to 44,female,None of above
+1295,25 to 34,female,None of above
+1296,18 to 24,female,None of above
+1297,35 to 44,female,None of above
+1298,45 to 54,prefer not to answer,SF
+1299,25 to 34,female,DC
+1300,25 to 34,prefer not to answer,HOU
+1301,25 to 34,female,SEA
+1302,35 to 44,female,DC
+1303,25 to 34,female,DC
+1304,35 to 44,female,DC
+1305,45 to 54,prefer not to answer,DC
+1306,18 to 24,female,SEA
+1307,35 to 44,female,LA
+1308,25 to 34,female,SF
+1309,35 to 44,female,SEA
+1310,25 to 34,non-binary,NYC
+1311,55+,female,SF
+1312,35 to 44,prefer not to answer,HOU
+1313,35 to 44,prefer not to answer,SEA
+1314,18 to 24,female,ATL
+1315,35 to 44,female,SF
+1316,25 to 34,female,LA
+1317,45 to 54,prefer not to answer,NYC
+1318,25 to 34,female,HOU
+1319,35 to 44,male,NYC
+1320,18 to 24,female,SF
+1321,35 to 44,female,SF
+1322,45 to 54,male,None of above
+1323,25 to 34,female,SF
+1324,25 to 34,female,SF
+1325,35 to 44,female,None of above
+1326,35 to 44,female,None of above
+1327,35 to 44,female,SF
+1328,25 to 34,prefer not to answer,None of above
+1329,25 to 34,male,SEA
+1330,25 to 34,female,PHL
+1331,55+,female,None of above
+1332,18 to 24,female,LA
+1333,25 to 34,female,None of above
+1334,35 to 44,female,SEA
+1335,35 to 44,prefer not to answer,NYC
+1336,35 to 44,male,LA
+1337,35 to 44,non-binary,HOU
+1338,25 to 34,male,DC
+1339,35 to 44,male,LA
+1340,45 to 54,female,DC
+1341,35 to 44,prefer not to answer,SF
+1342,25 to 34,male,SF
+1343,35 to 44,prefer not to answer,NYC
+1344,25 to 34,female,SF
+1345,25 to 34,female,LA
+1346,18 to 24,female,LA
+1347,25 to 34,prefer not to answer,SF
+1348,25 to 34,male,DC
+1349,35 to 44,female,None of above
+1350,35 to 44,female,NYC
+1351,18 to 24,female,DC
+1352,55+,female,None of above
+1353,25 to 34,prefer not to answer,SF
+1354,35 to 44,female,CHI
+1355,35 to 44,female,LA
+1356,25 to 34,female,SF
+1357,35 to 44,female,NYC
+1358,25 to 34,non-binary,ATL
+1359,35 to 44,female,LA
+1360,18 to 24,female,SF
+1361,25 to 34,non-binary,SF
+1362,35 to 44,male,SF
+1363,45 to 54,female,CHI
+1364,25 to 34,male,PHL
+1365,25 to 34,prefer not to answer,SEA
+1366,25 to 34,prefer not to answer,None of above
+1367,25 to 34,prefer not to answer,None of above
+1368,35 to 44,female,SEA
+1369,18 to 24,female,LA
+1370,25 to 34,male,LA
+1371,35 to 44,female,NYC
+1372,18 to 24,female,SEA
+1373,55+,female,SEA
+1374,25 to 34,female,PHL
+1375,25 to 34,female,LA
+1376,35 to 44,male,HOU
+1377,45 to 54,prefer not to answer,ATL
+1378,25 to 34,male,NYC
+1379,18 to 24,male,NYC
+1380,25 to 34,female,SF
+1381,25 to 34,female,None of above
+1382,25 to 34,female,SF
+1383,25 to 34,female,HOU
+1384,18 to 24,female,SF
+1385,25 to 34,prefer not to answer,SF
+1386,35 to 44,female,SF
+1387,55+,female,HOU
+1388,25 to 34,female,DC
+1389,35 to 44,male,DC
+1390,18 to 24,female,NYC
+1391,18 to 24,female,SEA
+1392,25 to 34,female,DC
+1393,25 to 34,male,SEA
+1394,45 to 54,female,LA
+1395,35 to 44,male,None of above
+1396,18 to 24,female,LA
+1397,25 to 34,male,SF
+1398,25 to 34,female,DC
+1399,35 to 44,female,None of above
+1400,25 to 34,female,SEA
+1401,35 to 44,female,SF
+1402,45 to 54,female,NYC
+1403,35 to 44,male,None of above
+1404,25 to 34,female,SF
+1405,45 to 54,male,SF
+1406,18 to 24,female,SEA
+1407,25 to 34,male,DC
+1408,25 to 34,female,None of above
+1409,25 to 34,non-binary,CHI
+1410,35 to 44,female,SF
+1411,45 to 54,male,SEA
+1412,18 to 24,female,CHI
+1413,35 to 44,male,DC
+1414,35 to 44,male,LA
+1415,18 to 24,male,None of above
+1416,45 to 54,female,SF
+1417,35 to 44,prefer not to answer,LA
+1418,18 to 24,male,DC
+1419,25 to 34,female,None of above
+1420,18 to 24,prefer not to answer,None of above
+1421,35 to 44,male,DC
+1422,35 to 44,male,None of above
+1423,35 to 44,female,LA
+1424,45 to 54,prefer not to answer,SEA
+1425,35 to 44,female,DC
+1426,25 to 34,female,HOU
+1427,35 to 44,male,SF
+1428,25 to 34,male,NYC
+1429,25 to 34,female,ATL
+1430,45 to 54,male,SF
+1431,25 to 34,prefer not to answer,SEA
+1432,55+,male,NYC
+1433,25 to 34,female,LA
+1434,45 to 54,female,None of above
+1435,18 to 24,female,SF
+1436,25 to 34,female,NYC
+1437,35 to 44,male,SEA
+1438,35 to 44,prefer not to answer,SF
+1439,55+,female,NYC
+1440,18 to 24,female,LA
+1441,25 to 34,male,PHL
+1442,18 to 24,female,SEA
+1443,18 to 24,male,NYC
+1444,25 to 34,female,None of above
+1445,25 to 34,female,NYC
+1446,45 to 54,female,LA
+1447,35 to 44,female,PHL
+1448,25 to 34,female,SF
+1449,35 to 44,female,BOS
+1450,25 to 34,prefer not to answer,DC
+1451,35 to 44,female,DC
+1452,18 to 24,prefer not to answer,NYC
+1453,55+,female,SF
+1454,45 to 54,prefer not to answer,DC
+1455,35 to 44,male,NYC
+1456,55+,female,SF
+1457,25 to 34,female,SF
+1458,55+,male,LA
+1459,35 to 44,female,DC
+1460,18 to 24,male,LA
+1461,25 to 34,female,None of above
+1462,25 to 34,female,PHL
+1463,25 to 34,female,SF
+1464,18 to 24,female,NYC
+1465,35 to 44,male,PHL
+1466,18 to 24,prefer not to answer,ATL
+1467,35 to 44,prefer not to answer,NYC
+1468,18 to 24,female,LA
+1469,25 to 34,female,DC
+1470,45 to 54,prefer not to answer,PHL
+1471,25 to 34,female,LA
+1472,25 to 34,male,SF
+1473,25 to 34,prefer not to answer,DC
+1474,55+,male,SEA
+1475,25 to 34,female,DC
+1476,45 to 54,female,None of above
+1477,25 to 34,female,None of above
+1478,25 to 34,female,SF
+1479,25 to 34,female,NYC
+1480,18 to 24,male,NYC
+1481,25 to 34,female,PHL
+1482,35 to 44,female,ATL
+1483,35 to 44,male,SF
+1484,35 to 44,prefer not to answer,DC
+1485,25 to 34,female,SF
+1486,18 to 24,prefer not to answer,LA
+1487,25 to 34,female,DC
+1488,45 to 54,prefer not to answer,LA
+1489,35 to 44,female,DC
+1490,25 to 34,male,SEA
+1491,35 to 44,male,NYC
+1492,35 to 44,female,None of above
+1493,35 to 44,female,LA
+1494,25 to 34,male,None of above
+1495,35 to 44,female,None of above
+1496,25 to 34,female,LA
+1497,35 to 44,female,LA
+1498,25 to 34,female,LA
+1499,25 to 34,female,LA
+1500,35 to 44,female,SEA
+1501,18 to 24,female,LA
+1502,35 to 44,female,SF
+1503,35 to 44,prefer not to answer,SEA
+1504,18 to 24,male,DC
+1505,35 to 44,male,SF
+1506,45 to 54,female,SF
+1507,35 to 44,male,DC
+1508,18 to 24,male,LA
+1509,25 to 34,prefer not to answer,SF
+1510,25 to 34,female,DC
+1511,25 to 34,prefer not to answer,LA
+1512,25 to 34,female,SF
+1513,25 to 34,female,PHL
+1514,35 to 44,female,SF
+1515,25 to 34,male,DC
+1516,25 to 34,female,SF
+1517,18 to 24,male,SF
+1518,25 to 34,female,SF
+1519,35 to 44,male,HOU
+1520,25 to 34,female,HOU
+1521,25 to 34,male,LA
+1522,45 to 54,female,SF
+1523,35 to 44,female,LA
+1524,35 to 44,female,SF
+1525,25 to 34,prefer not to answer,NYC
+1526,35 to 44,prefer not to answer,LA
+1527,25 to 34,female,SF
+1528,35 to 44,female,ATL
+1529,25 to 34,female,LA
+1530,35 to 44,female,LA
+1531,18 to 24,female,SF
+1532,35 to 44,female,SF
+1533,18 to 24,male,None of above
+1534,35 to 44,female,LA
+1535,45 to 54,prefer not to answer,SEA
+1536,45 to 54,female,BOS
+1537,35 to 44,female,None of above
+1538,35 to 44,male,LA
+1539,25 to 34,male,SEA
+1540,35 to 44,female,SEA
+1541,55+,female,LA
+1542,25 to 34,female,ATL
+1543,18 to 24,female,LA
+1544,35 to 44,male,None of above
+1545,25 to 34,female,SF
+1546,35 to 44,prefer not to answer,NYC
+1547,18 to 24,female,DC
+1548,45 to 54,female,LA
+1549,35 to 44,male,LA
+1550,35 to 44,female,SEA
+1551,25 to 34,prefer not to answer,LA
+1552,25 to 34,female,SF
+1553,45 to 54,prefer not to answer,NYC
+1554,45 to 54,female,SF
+1555,18 to 24,prefer not to answer,NYC
+1556,25 to 34,female,NYC
+1557,25 to 34,female,SF
+1558,35 to 44,female,SF
+1559,35 to 44,female,SF
+1560,25 to 34,prefer not to answer,SF
+1561,25 to 34,male,SF
+1562,25 to 34,prefer not to answer,None of above
+1563,25 to 34,female,None of above
+1564,18 to 24,female,HOU
+1565,35 to 44,prefer not to answer,NYC
+1566,35 to 44,male,DC
+1567,35 to 44,female,LA
+1568,25 to 34,female,PHL
+1569,25 to 34,female,LA
+1570,45 to 54,female,NYC
+1571,35 to 44,male,ATL
+1572,35 to 44,male,None of above
+1573,18 to 24,female,ATL
+1574,35 to 44,prefer not to answer,SF
+1575,25 to 34,female,SF
+1576,18 to 24,male,PHL
+1577,25 to 34,male,SF
+1578,25 to 34,male,None of above
+1579,45 to 54,female,CHI
+1580,25 to 34,male,None of above
+1581,25 to 34,female,LA
+1582,25 to 34,female,NYC
+1583,25 to 34,female,NYC
+1584,25 to 34,female,SEA
+1585,25 to 34,female,LA
+1586,25 to 34,female,None of above
+1587,45 to 54,prefer not to answer,SEA
+1588,25 to 34,male,SEA
+1589,35 to 44,female,SF
+1590,25 to 34,female,SF
+1591,25 to 34,prefer not to answer,SF
+1592,45 to 54,female,None of above
+1593,45 to 54,male,NYC
+1594,25 to 34,male,LA
+1595,25 to 34,female,DC
+1596,35 to 44,prefer not to answer,SF
+1597,35 to 44,female,SF
+1598,25 to 34,female,CHI
+1599,35 to 44,female,NYC
+1600,25 to 34,prefer not to answer,BOS
+1601,45 to 54,female,LA
+1602,25 to 34,female,SEA
+1603,25 to 34,male,None of above
+1604,25 to 34,female,None of above
+1605,18 to 24,prefer not to answer,SF
+1606,18 to 24,female,DC
+1607,18 to 24,female,LA
+1608,45 to 54,prefer not to answer,SF
+1609,18 to 24,female,LA
+1610,25 to 34,prefer not to answer,DC
+1611,25 to 34,female,None of above
+1612,35 to 44,male,None of above
+1613,35 to 44,female,SF
+1614,25 to 34,female,LA
+1615,25 to 34,female,SEA
+1616,35 to 44,female,SF
+1617,35 to 44,non-binary,LA
+1618,25 to 34,male,None of above
+1619,25 to 34,female,CHI
+1620,35 to 44,male,SF
+1621,25 to 34,female,LA
+1622,25 to 34,prefer not to answer,DC
+1623,18 to 24,female,LA
+1624,25 to 34,male,None of above
+1625,25 to 34,prefer not to answer,SF
+1626,35 to 44,prefer not to answer,NYC
+1627,25 to 34,prefer not to answer,SF
+1628,25 to 34,female,SEA
+1629,25 to 34,male,LA
+1630,45 to 54,male,PHL
+1631,45 to 54,male,PHL
+1632,35 to 44,prefer not to answer,None of above
+1633,18 to 24,female,NYC
+1634,18 to 24,female,DC
+1635,18 to 24,female,LA
+1636,35 to 44,male,LA
+1637,45 to 54,male,DC
+1638,25 to 34,female,DC
+1639,45 to 54,female,HOU
+1640,45 to 54,female,SF
+1641,25 to 34,female,SF
+1642,35 to 44,male,LA
+1643,25 to 34,female,LA
+1644,35 to 44,male,DC
+1645,35 to 44,male,DC
+1646,35 to 44,female,SEA
+1647,35 to 44,female,None of above
+1648,35 to 44,female,DC
+1649,25 to 34,male,PHL
+1650,25 to 34,female,SF
+1651,18 to 24,male,PHL
+1652,25 to 34,male,BOS
+1653,25 to 34,female,CHI
+1654,25 to 34,non-binary,None of above
+1655,35 to 44,female,SF
+1656,18 to 24,male,None of above
+1657,35 to 44,female,SEA
+1658,25 to 34,female,PHL
+1659,25 to 34,prefer not to answer,NYC
+1660,25 to 34,female,None of above
+1661,35 to 44,prefer not to answer,SF
+1662,25 to 34,male,LA
+1663,25 to 34,male,NYC
+1664,25 to 34,female,SF
+1665,35 to 44,female,BOS
+1666,25 to 34,female,HOU
+1667,35 to 44,prefer not to answer,NYC
+1668,25 to 34,male,SEA
+1669,35 to 44,female,DC
+1670,25 to 34,female,DC
+1671,25 to 34,female,LA
+1672,45 to 54,female,None of above
+1673,55+,prefer not to answer,SF
+1674,35 to 44,female,None of above
+1675,18 to 24,female,SEA
+1676,35 to 44,prefer not to answer,SEA
+1677,35 to 44,female,DC
+1678,18 to 24,male,DC
+1679,25 to 34,female,NYC
+1680,45 to 54,prefer not to answer,SEA
+1681,25 to 34,male,HOU
+1682,55+,female,SF
+1683,25 to 34,prefer not to answer,NYC
+1684,25 to 34,female,None of above
+1685,18 to 24,male,LA
+1686,35 to 44,female,NYC
+1687,25 to 34,male,None of above
+1688,25 to 34,male,LA
+1689,35 to 44,female,SF
+1690,18 to 24,male,LA
+1691,35 to 44,female,DC
+1692,35 to 44,female,SF
+1693,35 to 44,female,None of above
+1694,18 to 24,female,SEA
+1695,25 to 34,prefer not to answer,PHL
+1696,25 to 34,female,SF
+1697,25 to 34,prefer not to answer,LA
+1698,18 to 24,female,SEA
+1699,25 to 34,female,LA
+1700,35 to 44,female,LA
+1701,35 to 44,female,SF
+1702,18 to 24,male,SEA
+1703,18 to 24,prefer not to answer,ATL
+1704,35 to 44,prefer not to answer,None of above
+1705,35 to 44,female,DC
+1706,18 to 24,prefer not to answer,PHL
+1707,25 to 34,female,None of above
+1708,45 to 54,male,NYC
+1709,25 to 34,prefer not to answer,SEA
+1710,35 to 44,male,SF
+1711,45 to 54,male,LA
+1712,25 to 34,female,NYC
+1713,35 to 44,male,BOS
+1714,25 to 34,male,LA
+1715,35 to 44,female,BOS
+1716,55+,female,NYC
+1717,25 to 34,female,SF
+1718,25 to 34,female,None of above
+1719,25 to 34,prefer not to answer,PHL
+1720,18 to 24,female,None of above
+1721,35 to 44,non-binary,LA
+1722,25 to 34,prefer not to answer,None of above
+1723,18 to 24,male,NYC
+1724,35 to 44,female,SF
+1725,25 to 34,prefer not to answer,SF
+1726,25 to 34,non-binary,LA
+1727,45 to 54,female,None of above
+1728,25 to 34,female,LA
+1729,35 to 44,prefer not to answer,SF
+1730,25 to 34,female,LA
+1731,18 to 24,female,LA
+1732,18 to 24,female,DC
+1733,25 to 34,male,LA
+1734,25 to 34,female,LA
+1735,18 to 24,prefer not to answer,LA
+1736,18 to 24,female,None of above
+1737,45 to 54,female,LA
+1738,18 to 24,female,HOU
+1739,45 to 54,female,BOS
+1740,45 to 54,female,LA
+1741,25 to 34,female,SF
+1742,35 to 44,male,SF
+1743,35 to 44,female,None of above
+1744,25 to 34,prefer not to answer,LA
+1745,35 to 44,female,None of above
+1746,35 to 44,female,LA
+1747,25 to 34,female,DC
+1748,35 to 44,prefer not to answer,NYC
+1749,25 to 34,male,LA
+1750,25 to 34,male,LA
+1751,35 to 44,female,DC
+1752,55+,prefer not to answer,LA
+1753,25 to 34,female,CHI
+1754,35 to 44,female,LA
+1755,25 to 34,non-binary,CHI
+1756,25 to 34,male,None of above
+1757,18 to 24,female,SF
+1758,25 to 34,female,HOU
+1759,25 to 34,female,None of above
+1760,35 to 44,female,DC
+1761,18 to 24,prefer not to answer,DC
+1762,25 to 34,male,NYC
+1763,25 to 34,male,SF
+1764,25 to 34,prefer not to answer,LA
+1765,35 to 44,female,NYC
+1766,25 to 34,female,SF
+1767,25 to 34,male,DC
+1768,55+,female,LA
+1769,35 to 44,female,None of above
+1770,25 to 34,female,None of above
+1771,25 to 34,prefer not to answer,LA
+1772,35 to 44,non-binary,SF
+1773,25 to 34,male,SEA
+1774,18 to 24,prefer not to answer,SF
+1775,25 to 34,male,SF
+1776,45 to 54,female,LA
+1777,18 to 24,male,LA
+1778,25 to 34,male,None of above
+1779,35 to 44,prefer not to answer,NYC
+1780,35 to 44,female,None of above
+1781,25 to 34,male,CHI
+1782,35 to 44,female,LA
+1783,18 to 24,female,None of above
+1784,25 to 34,prefer not to answer,NYC
+1785,25 to 34,female,None of above
+1786,35 to 44,female,SF
+1787,25 to 34,male,SF
+1788,45 to 54,female,SEA
+1789,25 to 34,male,SF
+1790,25 to 34,female,LA
+1791,25 to 34,non-binary,DC
+1792,45 to 54,prefer not to answer,HOU
+1793,25 to 34,male,LA
+1794,55+,male,HOU
+1795,35 to 44,female,BOS
+1796,25 to 34,male,LA
+1797,18 to 24,female,ATL
+1798,25 to 34,prefer not to answer,NYC
+1799,45 to 54,female,SF
+1800,35 to 44,male,LA
+1801,35 to 44,male,SF
+1802,25 to 34,male,DC
+1803,18 to 24,female,LA
+1804,25 to 34,male,SF
+1805,25 to 34,prefer not to answer,LA
+1806,35 to 44,prefer not to answer,DC
+1807,25 to 34,male,None of above
+1808,25 to 34,prefer not to answer,LA
+1809,25 to 34,male,HOU
+1810,25 to 34,prefer not to answer,SF
+1811,25 to 34,prefer not to answer,LA
+1812,35 to 44,female,None of above
+1813,25 to 34,female,LA
+1814,25 to 34,male,BOS
+1815,25 to 34,prefer not to answer,NYC
+1816,35 to 44,female,LA
+1817,45 to 54,female,DC
+1818,25 to 34,male,SEA
+1819,25 to 34,female,NYC
+1820,35 to 44,female,None of above
+1821,35 to 44,male,HOU
+1822,25 to 34,female,SF
+1823,25 to 34,male,SEA
+1824,35 to 44,female,SEA
+1825,45 to 54,non-binary,None of above
+1826,25 to 34,female,CHI
+1827,18 to 24,male,SEA
+1828,45 to 54,female,SF
+1829,25 to 34,male,DC
+1830,45 to 54,prefer not to answer,LA
+1831,35 to 44,female,NYC
+1832,55+,male,SF
+1833,25 to 34,female,DC
+1834,35 to 44,female,LA
+1835,45 to 54,male,None of above
+1836,35 to 44,female,SF
+1837,25 to 34,female,NYC
+1838,18 to 24,prefer not to answer,NYC
+1839,25 to 34,prefer not to answer,NYC
+1840,55+,female,NYC
+1841,45 to 54,male,HOU
+1842,25 to 34,female,LA
+1843,25 to 34,female,SEA
+1844,45 to 54,female,PHL
+1845,45 to 54,female,LA
+1846,25 to 34,prefer not to answer,None of above
+1847,25 to 34,female,NYC
+1848,25 to 34,female,NYC
+1849,35 to 44,female,ATL
+1850,45 to 54,non-binary,SF
+1851,35 to 44,prefer not to answer,NYC
+1852,45 to 54,female,LA
+1853,18 to 24,male,SEA
+1854,35 to 44,female,SF
+1855,35 to 44,male,PHL
+1856,25 to 34,male,SEA
+1857,35 to 44,female,NYC
+1858,25 to 34,female,None of above
+1859,25 to 34,female,SF
+1860,18 to 24,female,DC
+1861,25 to 34,male,PHL
+1862,25 to 34,female,LA
+1863,25 to 34,male,DC
+1864,25 to 34,male,None of above
+1865,25 to 34,male,DC
+1866,35 to 44,female,BOS
+1867,35 to 44,female,LA
+1868,45 to 54,female,BOS
+1869,25 to 34,female,None of above
+1870,25 to 34,female,DC
+1871,18 to 24,male,SF
+1872,25 to 34,non-binary,NYC
+1873,25 to 34,male,DC
+1874,18 to 24,female,BOS
+1875,55+,female,DC
+1876,18 to 24,male,HOU
+1877,35 to 44,male,HOU
+1878,18 to 24,prefer not to answer,DC
+1879,35 to 44,female,NYC
+1880,25 to 34,female,LA
+1881,18 to 24,female,HOU
+1882,45 to 54,male,SF
+1883,25 to 34,female,SF
+1884,35 to 44,female,SF
+1885,45 to 54,female,None of above
+1886,25 to 34,female,None of above
+1887,25 to 34,female,HOU
+1888,35 to 44,female,None of above
+1889,55+,female,DC
+1890,45 to 54,male,None of above
+1891,25 to 34,female,HOU
+1892,25 to 34,prefer not to answer,PHL
+1893,35 to 44,male,LA
+1894,45 to 54,male,NYC
+1895,35 to 44,female,LA
+1896,35 to 44,female,None of above
+1897,18 to 24,female,LA
+1898,35 to 44,prefer not to answer,LA
+1899,18 to 24,prefer not to answer,SF
+1900,25 to 34,female,DC
+1901,18 to 24,male,DC
+1902,18 to 24,female,LA
+1903,35 to 44,female,None of above
+1904,35 to 44,female,NYC
+1905,25 to 34,female,NYC
+1906,25 to 34,female,NYC
+1907,25 to 34,female,SEA
+1908,35 to 44,female,BOS
+1909,25 to 34,male,SEA
+1910,18 to 24,female,SEA
+1911,25 to 34,female,LA
+1912,25 to 34,female,SEA
+1913,35 to 44,prefer not to answer,None of above
+1914,45 to 54,prefer not to answer,LA
+1915,25 to 34,male,HOU
+1916,18 to 24,male,BOS
+1917,45 to 54,female,SEA
+1918,25 to 34,female,SEA
+1919,55+,male,SF
+1920,35 to 44,non-binary,HOU
+1921,35 to 44,female,NYC
+1922,55+,male,SF
+1923,45 to 54,male,None of above
+1924,25 to 34,prefer not to answer,LA
+1925,35 to 44,female,SEA
+1926,35 to 44,female,SF
+1927,35 to 44,female,ATL
+1928,25 to 34,female,NYC
+1929,35 to 44,female,LA
+1930,25 to 34,female,LA
+1931,35 to 44,female,LA
+1932,45 to 54,female,NYC
+1933,25 to 34,female,LA
+1934,45 to 54,male,LA
+1935,45 to 54,female,SF
+1936,45 to 54,female,ATL
+1937,25 to 34,female,DC
+1938,25 to 34,female,SEA
+1939,18 to 24,female,None of above
+1940,35 to 44,female,SF
+1941,35 to 44,male,LA
+1942,25 to 34,female,None of above
+1943,25 to 34,female,DC
+1944,25 to 34,male,None of above
+1945,35 to 44,prefer not to answer,SF
+1946,18 to 24,prefer not to answer,NYC
+1947,45 to 54,female,SF
+1948,25 to 34,female,LA
+1949,25 to 34,prefer not to answer,HOU
+1950,35 to 44,prefer not to answer,LA
+1951,25 to 34,female,SF
+1952,25 to 34,prefer not to answer,ATL
+1953,45 to 54,prefer not to answer,PHL
+1954,45 to 54,female,DC
+1955,35 to 44,female,LA
+1956,25 to 34,male,HOU
+1957,35 to 44,male,NYC
+1958,35 to 44,male,SEA
+1959,18 to 24,female,SF
+1960,25 to 34,female,CHI
+1961,25 to 34,male,LA
+1962,25 to 34,female,CHI
+1963,35 to 44,male,SF
+1964,25 to 34,female,LA
+1965,25 to 34,male,SF
+1966,35 to 44,male,LA
+1967,25 to 34,female,LA
+1968,35 to 44,male,SF
+1969,18 to 24,prefer not to answer,NYC
+1970,35 to 44,male,PHL
+1971,25 to 34,prefer not to answer,LA
+1972,35 to 44,prefer not to answer,None of above
+1973,35 to 44,female,SEA
+1974,35 to 44,female,LA
+1975,25 to 34,prefer not to answer,PHL
+1976,35 to 44,female,BOS
+1977,45 to 54,prefer not to answer,HOU
+1978,45 to 54,male,NYC
+1979,25 to 34,non-binary,CHI
+1980,45 to 54,female,NYC
+1981,25 to 34,prefer not to answer,DC
+1982,55+,female,SEA
+1983,35 to 44,female,SEA
+1984,18 to 24,female,SF
+1985,18 to 24,prefer not to answer,LA
+1986,45 to 54,male,None of above
+1987,35 to 44,prefer not to answer,NYC
+1988,25 to 34,female,None of above
+1989,35 to 44,female,DC
+1990,55+,male,SF
+1991,35 to 44,male,PHL
+1992,35 to 44,prefer not to answer,SF
+1993,35 to 44,female,SF
+1994,25 to 34,female,LA
+1995,45 to 54,female,SF
+1996,35 to 44,female,PHL
+1997,25 to 34,male,SF
+1998,35 to 44,female,None of above
+1999,25 to 34,female,DC
+2000,18 to 24,male,None of above
+2001,25 to 34,female,HOU
+2002,25 to 34,male,DC
+2003,25 to 34,female,LA
+2004,35 to 44,female,DC
+2005,35 to 44,prefer not to answer,LA
+2006,35 to 44,female,SF
+2007,25 to 34,female,None of above
+2008,35 to 44,prefer not to answer,None of above
+2009,25 to 34,female,SEA
+2010,45 to 54,prefer not to answer,PHL
+2011,25 to 34,female,DC
+2012,25 to 34,female,LA
+2013,25 to 34,female,SF
+2014,45 to 54,prefer not to answer,SEA
+2015,25 to 34,female,LA
+2016,45 to 54,male,SEA
+2017,45 to 54,female,NYC
+2018,25 to 34,female,HOU
+2019,35 to 44,prefer not to answer,HOU
+2020,18 to 24,male,SEA
+2021,35 to 44,male,LA
+2022,35 to 44,non-binary,DC
+2023,18 to 24,female,SF
+2024,25 to 34,female,DC
+2025,35 to 44,female,LA
+2026,45 to 54,male,DC
+2027,35 to 44,female,LA
+2028,45 to 54,prefer not to answer,LA
+2029,25 to 34,prefer not to answer,SF
+2030,25 to 34,female,None of above
+2031,35 to 44,female,None of above
+2032,35 to 44,female,NYC
+2033,35 to 44,male,SEA
+2034,25 to 34,female,SEA
+2035,25 to 34,female,PHL
+2036,35 to 44,female,SF
+2037,55+,male,LA
+2038,25 to 34,prefer not to answer,SEA
+2039,25 to 34,prefer not to answer,LA
+2040,18 to 24,male,None of above
+2041,35 to 44,female,None of above
+2042,25 to 34,female,DC
+2043,35 to 44,female,SF
+2044,35 to 44,male,DC
+2045,18 to 24,male,LA
+2046,25 to 34,male,None of above
+2047,25 to 34,male,SF
+2048,35 to 44,female,LA
+2049,25 to 34,non-binary,LA
+2050,25 to 34,male,LA
+2051,35 to 44,female,SF
+2052,18 to 24,female,None of above
+2053,35 to 44,male,NYC
+2054,25 to 34,female,None of above
+2055,35 to 44,male,None of above
+2056,18 to 24,male,LA
+2057,25 to 34,male,DC
+2058,25 to 34,prefer not to answer,SF
+2059,35 to 44,male,DC
+2060,25 to 34,female,SF
+2061,18 to 24,female,SF
+2062,35 to 44,prefer not to answer,NYC
+2063,25 to 34,female,LA
+2064,45 to 54,male,SF
+2065,18 to 24,male,SF
+2066,18 to 24,female,LA
+2067,18 to 24,prefer not to answer,LA
+2068,55+,prefer not to answer,None of above
+2069,25 to 34,non-binary,LA
+2070,35 to 44,female,LA
+2071,35 to 44,female,SEA
+2072,35 to 44,prefer not to answer,SF
+2073,35 to 44,male,DC
+2074,25 to 34,female,SF
+2075,25 to 34,female,SF
+2076,25 to 34,female,SF
+2077,18 to 24,female,NYC
+2078,25 to 34,female,SF
+2079,25 to 34,female,None of above
+2080,18 to 24,male,PHL
+2081,35 to 44,female,None of above
+2082,25 to 34,female,LA
+2083,25 to 34,male,LA
+2084,25 to 34,male,SF
+2085,35 to 44,female,None of above
+2086,45 to 54,female,SEA
+2087,35 to 44,female,NYC
+2088,18 to 24,female,LA
+2089,18 to 24,female,SF
+2090,25 to 34,prefer not to answer,LA
+2091,18 to 24,non-binary,PHL
+2092,18 to 24,male,SF
+2093,25 to 34,female,SEA
+2094,25 to 34,male,SF
+2095,18 to 24,female,NYC
+2096,25 to 34,male,NYC
+2097,25 to 34,male,SEA
+2098,35 to 44,female,NYC
+2099,25 to 34,female,ATL
+2100,18 to 24,female,SF
+2101,35 to 44,female,SF
+2102,18 to 24,female,LA
+2103,25 to 34,male,SF
+2104,25 to 34,prefer not to answer,LA
+2105,25 to 34,female,SEA
+2106,35 to 44,male,SF
+2107,18 to 24,male,LA
+2108,35 to 44,female,LA
+2109,25 to 34,male,LA
+2110,25 to 34,non-binary,LA
+2111,25 to 34,female,None of above
+2112,18 to 24,female,LA
+2113,25 to 34,female,DC
+2114,55+,female,None of above
+2115,25 to 34,prefer not to answer,SEA
+2116,25 to 34,non-binary,SF
+2117,25 to 34,prefer not to answer,PHL
+2118,25 to 34,female,HOU
+2119,25 to 34,prefer not to answer,SF
+2120,25 to 34,female,PHL
+2121,45 to 54,female,LA
+2122,35 to 44,female,None of above
+2123,45 to 54,female,None of above
+2124,18 to 24,prefer not to answer,SF
+2125,25 to 34,female,None of above
+2126,35 to 44,female,LA
+2127,18 to 24,female,None of above
+2128,25 to 34,female,SEA
+2129,18 to 24,male,SEA
+2130,35 to 44,prefer not to answer,SF
+2131,25 to 34,female,NYC
+2132,18 to 24,prefer not to answer,NYC
+2133,35 to 44,prefer not to answer,SF
+2134,18 to 24,male,SEA
+2135,35 to 44,female,HOU
+2136,45 to 54,female,SEA
+2137,25 to 34,female,None of above
+2138,18 to 24,prefer not to answer,SF
+2139,35 to 44,prefer not to answer,LA
+2140,35 to 44,female,SEA
+2141,35 to 44,male,None of above
+2142,35 to 44,female,SEA
+2143,45 to 54,prefer not to answer,DC
+2144,25 to 34,female,SF
+2145,25 to 34,female,LA
+2146,45 to 54,male,LA
+2147,55+,male,LA
+2148,35 to 44,female,NYC
+2149,25 to 34,female,NYC
+2150,45 to 54,female,None of above
+2151,45 to 54,female,DC
+2152,18 to 24,female,HOU
+2153,25 to 34,prefer not to answer,LA
+2154,18 to 24,female,SF
+2155,35 to 44,female,SF
+2156,25 to 34,female,SF
+2157,35 to 44,female,BOS
+2158,35 to 44,male,LA
+2159,18 to 24,female,LA
+2160,35 to 44,male,None of above
+2161,35 to 44,female,LA
+2162,35 to 44,female,PHL
+2163,35 to 44,male,SF
+2164,25 to 34,female,PHL
+2165,45 to 54,female,LA
+2166,25 to 34,female,None of above
+2167,25 to 34,prefer not to answer,SF
+2168,25 to 34,male,None of above
+2169,35 to 44,female,SEA
+2170,45 to 54,male,SF
+2171,35 to 44,female,None of above
+2172,25 to 34,female,SF
+2173,25 to 34,prefer not to answer,SF
+2174,25 to 34,female,HOU
+2175,35 to 44,male,SF
+2176,25 to 34,female,SF
+2177,35 to 44,female,DC
+2178,18 to 24,prefer not to answer,SEA
+2179,25 to 34,female,DC
+2180,25 to 34,prefer not to answer,DC
+2181,25 to 34,female,SF
+2182,35 to 44,female,DC
+2183,25 to 34,female,SEA
+2184,18 to 24,female,SEA
+2185,35 to 44,male,PHL
+2186,55+,female,None of above
+2187,35 to 44,male,BOS
+2188,35 to 44,female,LA
+2189,35 to 44,female,SF
+2190,35 to 44,male,SEA
+2191,25 to 34,prefer not to answer,DC
+2192,45 to 54,female,None of above
+2193,25 to 34,female,None of above
+2194,25 to 34,female,LA
+2195,25 to 34,male,None of above
+2196,25 to 34,female,NYC
+2197,25 to 34,female,DC
+2198,25 to 34,non-binary,None of above
+2199,35 to 44,female,SF
+2200,25 to 34,female,BOS
+2201,25 to 34,female,BOS
+2202,35 to 44,non-binary,LA
+2203,25 to 34,male,LA
+2204,35 to 44,male,LA
+2205,35 to 44,female,HOU
+2206,25 to 34,female,HOU
+2207,25 to 34,female,LA
+2208,45 to 54,female,LA
+2209,25 to 34,female,HOU
+2210,18 to 24,female,SF
+2211,35 to 44,male,SEA
+2212,35 to 44,prefer not to answer,LA
+2213,18 to 24,female,None of above
+2214,25 to 34,female,DC
+2215,35 to 44,female,DC
+2216,25 to 34,male,SF
+2217,35 to 44,female,LA
+2218,25 to 34,prefer not to answer,LA
+2219,25 to 34,male,HOU
+2220,45 to 54,prefer not to answer,SEA
+2221,25 to 34,male,DC
+2222,35 to 44,prefer not to answer,None of above
+2223,25 to 34,female,SEA
+2224,25 to 34,female,LA
+2225,25 to 34,female,None of above
+2226,25 to 34,female,DC
+2227,35 to 44,female,SF
+2228,35 to 44,female,LA
+2229,25 to 34,female,CHI
+2230,45 to 54,female,SF
+2231,25 to 34,female,SF
+2232,35 to 44,male,LA
+2233,45 to 54,prefer not to answer,SF
+2234,45 to 54,female,None of above
+2235,25 to 34,female,LA
+2236,35 to 44,female,LA
+2237,25 to 34,male,DC
+2238,25 to 34,male,ATL
+2239,35 to 44,male,DC
+2240,25 to 34,prefer not to answer,SF
+2241,45 to 54,prefer not to answer,SEA
+2242,25 to 34,male,NYC
+2243,25 to 34,female,SEA
+2244,25 to 34,female,BOS
+2245,35 to 44,male,LA
+2246,25 to 34,female,DC
+2247,35 to 44,non-binary,CHI
+2248,25 to 34,prefer not to answer,DC
+2249,45 to 54,female,DC
+2250,45 to 54,male,ATL
+2251,35 to 44,prefer not to answer,SF
+2252,25 to 34,male,LA
+2253,25 to 34,female,DC
+2254,35 to 44,female,LA
+2255,35 to 44,prefer not to answer,NYC
+2256,35 to 44,female,CHI
+2257,25 to 34,female,SF
+2258,25 to 34,prefer not to answer,NYC
+2259,35 to 44,male,SF
+2260,35 to 44,female,LA
+2261,18 to 24,male,LA
+2262,35 to 44,female,DC
+2263,35 to 44,female,LA
+2264,35 to 44,prefer not to answer,DC
+2265,25 to 34,female,None of above
+2266,25 to 34,female,HOU
+2267,18 to 24,female,SEA
+2268,35 to 44,female,LA
+2269,35 to 44,female,None of above
+2270,25 to 34,female,DC
+2271,35 to 44,female,DC
+2272,35 to 44,male,DC
+2273,25 to 34,female,SF
+2274,25 to 34,prefer not to answer,SEA
+2275,25 to 34,female,SF
+2276,45 to 54,male,LA
+2277,35 to 44,male,LA
+2278,25 to 34,female,None of above
+2279,25 to 34,female,DC
+2280,25 to 34,female,DC
+2281,25 to 34,prefer not to answer,SF
+2282,35 to 44,prefer not to answer,LA
+2283,25 to 34,male,SEA
+2284,35 to 44,female,NYC
+2285,25 to 34,female,SEA
+2286,25 to 34,female,ATL
+2287,25 to 34,male,SF
+2288,18 to 24,male,SF
+2289,18 to 24,female,LA
+2290,35 to 44,male,DC
+2291,45 to 54,female,SF
+2292,35 to 44,male,DC
+2293,18 to 24,prefer not to answer,LA
+2294,25 to 34,male,SEA
+2295,35 to 44,female,LA
+2296,18 to 24,male,SEA
+2297,35 to 44,prefer not to answer,SEA
+2298,35 to 44,female,NYC
+2299,25 to 34,female,SEA
+2300,35 to 44,female,DC
+2301,35 to 44,female,None of above
+2302,35 to 44,male,HOU
+2303,25 to 34,female,SF
+2304,35 to 44,male,SF
+2305,35 to 44,female,NYC
+2306,35 to 44,male,NYC
+2307,35 to 44,male,SF
+2308,35 to 44,male,None of above
+2309,25 to 34,female,CHI
+2310,18 to 24,prefer not to answer,None of above
+2311,25 to 34,male,SF
+2312,25 to 34,female,SF
+2313,35 to 44,female,None of above
+2314,35 to 44,prefer not to answer,DC
+2315,18 to 24,female,None of above
+2316,35 to 44,male,DC
+2317,25 to 34,male,LA
+2318,18 to 24,female,NYC
+2319,25 to 34,female,DC
+2320,18 to 24,female,SF
+2321,35 to 44,female,None of above
+2322,35 to 44,female,BOS
+2323,25 to 34,female,SF
+2324,25 to 34,male,SF
+2325,35 to 44,prefer not to answer,None of above
+2326,35 to 44,prefer not to answer,BOS
+2327,35 to 44,prefer not to answer,LA
+2328,45 to 54,female,SF
+2329,45 to 54,prefer not to answer,None of above
+2330,25 to 34,female,NYC
+2331,35 to 44,female,None of above
+2332,25 to 34,female,SEA
+2333,35 to 44,female,SF
+2334,35 to 44,male,SEA
+2335,45 to 54,female,LA
+2336,25 to 34,male,SF
+2337,35 to 44,male,NYC
+2338,35 to 44,female,CHI
+2339,25 to 34,female,LA
+2340,25 to 34,female,SF
+2341,25 to 34,female,SEA
+2342,35 to 44,female,LA
+2343,35 to 44,female,SF
+2344,25 to 34,female,SF
+2345,35 to 44,male,DC
+2346,18 to 24,female,LA
+2347,25 to 34,male,None of above
+2348,18 to 24,female,DC
+2349,35 to 44,female,LA
+2350,25 to 34,male,NYC
+2351,35 to 44,female,None of above
+2352,25 to 34,female,ATL
+2353,25 to 34,female,HOU
+2354,18 to 24,male,SF
+2355,25 to 34,male,None of above
+2356,25 to 34,prefer not to answer,SF
+2357,45 to 54,male,DC
+2358,45 to 54,prefer not to answer,LA
+2359,25 to 34,prefer not to answer,SF
+2360,25 to 34,female,DC
+2361,35 to 44,male,SF
+2362,45 to 54,female,LA
+2363,25 to 34,prefer not to answer,SEA
+2364,55+,male,BOS
+2365,25 to 34,male,SF
+2366,35 to 44,male,NYC
+2367,35 to 44,male,LA
+2368,25 to 34,female,None of above
+2369,25 to 34,male,DC
+2370,35 to 44,female,SEA
+2371,35 to 44,male,DC
+2372,35 to 44,male,None of above
+2373,25 to 34,female,HOU
+2374,25 to 34,male,LA
+2375,25 to 34,male,SEA
+2376,35 to 44,male,LA
+2377,25 to 34,non-binary,NYC
+2378,45 to 54,female,SF
+2379,45 to 54,female,NYC
+2380,18 to 24,female,SEA
+2381,35 to 44,female,LA
+2382,35 to 44,female,SF
+2383,25 to 34,prefer not to answer,LA
+2384,55+,female,DC
+2385,18 to 24,prefer not to answer,SF
+2386,18 to 24,female,HOU
+2387,35 to 44,male,SF
+2388,18 to 24,prefer not to answer,ATL
+2389,35 to 44,prefer not to answer,LA
+2390,35 to 44,female,HOU
+2391,18 to 24,male,None of above
+2392,25 to 34,female,LA
+2393,35 to 44,female,NYC
+2394,35 to 44,female,SEA
+2395,25 to 34,female,None of above
+2396,18 to 24,female,SF
+2397,25 to 34,female,SF
+2398,25 to 34,female,DC
+2399,55+,female,NYC
+2400,35 to 44,female,NYC
+2401,35 to 44,male,LA
+2402,25 to 34,female,ATL
+2403,25 to 34,male,NYC
+2404,25 to 34,male,DC
+2405,25 to 34,prefer not to answer,SEA
+2406,25 to 34,female,LA
+2407,55+,male,LA
+2408,55+,female,None of above
+2409,45 to 54,female,LA
+2410,18 to 24,male,HOU
+2411,25 to 34,female,LA
+2412,18 to 24,female,SEA
+2413,45 to 54,male,DC
+2414,18 to 24,male,LA
+2415,18 to 24,female,LA
+2416,25 to 34,prefer not to answer,CHI
+2417,45 to 54,female,ATL
+2418,25 to 34,prefer not to answer,SF
+2419,45 to 54,prefer not to answer,LA
+2420,18 to 24,male,None of above
+2421,55+,male,LA
+2422,35 to 44,male,LA
+2423,35 to 44,female,SF
+2424,35 to 44,prefer not to answer,NYC
+2425,35 to 44,female,None of above
+2426,25 to 34,male,DC
+2427,25 to 34,male,SF
+2428,25 to 34,female,SEA
+2429,35 to 44,male,SF
+2430,35 to 44,female,HOU
+2431,35 to 44,male,SEA
+2432,25 to 34,non-binary,LA
+2433,35 to 44,male,None of above
+2434,35 to 44,female,DC
+2435,35 to 44,female,LA
+2436,35 to 44,female,BOS
+2437,45 to 54,male,LA
+2438,25 to 34,male,SF
+2439,25 to 34,female,LA
+2440,35 to 44,female,SF
+2441,18 to 24,female,LA
+2442,35 to 44,female,HOU
+2443,25 to 34,non-binary,DC
+2444,35 to 44,prefer not to answer,LA
+2445,25 to 34,male,SEA
+2446,25 to 34,female,NYC
+2447,35 to 44,male,SF
+2448,45 to 54,prefer not to answer,None of above
+2449,35 to 44,prefer not to answer,SF
+2450,25 to 34,female,NYC
+2451,35 to 44,female,DC
+2452,35 to 44,male,LA
+2453,35 to 44,male,CHI
+2454,18 to 24,male,NYC
+2455,25 to 34,female,SF
+2456,25 to 34,female,SF
+2457,45 to 54,female,PHL
+2458,25 to 34,prefer not to answer,LA
+2459,35 to 44,male,BOS
+2460,35 to 44,female,LA
+2461,25 to 34,male,LA
+2462,45 to 54,female,SF
+2463,25 to 34,prefer not to answer,SEA
+2464,25 to 34,female,HOU
+2465,25 to 34,female,None of above
+2466,35 to 44,male,LA
+2467,45 to 54,male,BOS
+2468,55+,female,LA
+2469,45 to 54,male,LA
+2470,18 to 24,male,HOU
+2471,25 to 34,male,DC
+2472,35 to 44,male,SF
+2473,35 to 44,prefer not to answer,NYC
+2474,25 to 34,female,DC
+2475,25 to 34,female,NYC
+2476,25 to 34,female,SEA
+2477,25 to 34,prefer not to answer,NYC
+2478,45 to 54,female,LA
+2479,18 to 24,female,DC
+2480,35 to 44,female,CHI
+2481,35 to 44,male,CHI
+2482,35 to 44,female,LA
+2483,25 to 34,non-binary,LA
+2484,25 to 34,female,NYC
+2485,25 to 34,female,SF
+2486,18 to 24,female,PHL
+2487,35 to 44,prefer not to answer,DC
+2488,25 to 34,male,NYC
+2489,45 to 54,male,DC
+2490,18 to 24,female,CHI
+2491,45 to 54,male,ATL
+2492,18 to 24,female,LA
+2493,35 to 44,prefer not to answer,NYC
+2494,45 to 54,female,SEA
+2495,25 to 34,prefer not to answer,LA
+2496,35 to 44,female,NYC
+2497,35 to 44,female,SF
+2498,25 to 34,female,SF
+2499,35 to 44,female,DC
+2500,25 to 34,non-binary,BOS
+2501,25 to 34,male,SF
+2502,25 to 34,male,HOU
+2503,35 to 44,male,SF
+2504,25 to 34,prefer not to answer,None of above
+2505,18 to 24,prefer not to answer,SF
+2506,55+,female,SEA
+2507,25 to 34,female,DC
+2508,35 to 44,female,SF
+2509,35 to 44,female,None of above
+2510,35 to 44,male,None of above
+2511,18 to 24,female,NYC
+2512,35 to 44,male,DC
+2513,35 to 44,male,SF
+2514,25 to 34,male,CHI
+2515,18 to 24,female,None of above
+2516,25 to 34,male,NYC
+2517,25 to 34,male,DC
+2518,25 to 34,non-binary,HOU
+2519,25 to 34,female,SEA
+2520,45 to 54,male,NYC
+2521,35 to 44,male,SEA
+2522,35 to 44,non-binary,SF
+2523,35 to 44,female,DC
+2524,35 to 44,female,None of above
+2525,35 to 44,female,DC
+2526,25 to 34,prefer not to answer,SF
+2527,25 to 34,female,SEA
+2528,25 to 34,male,None of above
+2529,25 to 34,male,DC
+2530,25 to 34,prefer not to answer,CHI
+2531,25 to 34,male,None of above
+2532,18 to 24,male,None of above
+2533,18 to 24,male,CHI
+2534,35 to 44,female,SF
+2535,18 to 24,non-binary,None of above
+2536,45 to 54,female,SF
+2537,55+,female,NYC
+2538,35 to 44,female,HOU
+2539,35 to 44,male,LA
+2540,25 to 34,female,SEA
+2541,25 to 34,male,LA
+2542,25 to 34,female,DC
+2543,35 to 44,female,NYC
+2544,35 to 44,female,NYC
+2545,25 to 34,female,NYC
+2546,45 to 54,male,None of above
+2547,25 to 34,female,HOU
+2548,25 to 34,male,LA
+2549,45 to 54,female,SF
+2550,25 to 34,female,DC
+2551,25 to 34,male,DC
+2552,35 to 44,female,SF
+2553,35 to 44,prefer not to answer,LA
+2554,18 to 24,male,None of above
+2555,25 to 34,male,SEA
+2556,25 to 34,male,SF
+2557,35 to 44,prefer not to answer,ATL
+2558,35 to 44,female,HOU
+2559,35 to 44,male,SF
+2560,25 to 34,male,NYC
+2561,35 to 44,female,SF
+2562,25 to 34,female,HOU
+2563,25 to 34,female,SF
+2564,25 to 34,prefer not to answer,SF
+2565,35 to 44,female,SEA
+2566,25 to 34,non-binary,ATL
+2567,45 to 54,female,SEA
+2568,18 to 24,male,SF
+2569,25 to 34,female,SF
+2570,35 to 44,non-binary,NYC
+2571,35 to 44,prefer not to answer,SF
+2572,35 to 44,prefer not to answer,SEA
+2573,25 to 34,prefer not to answer,PHL
+2574,18 to 24,male,LA
+2575,25 to 34,non-binary,DC
+2576,25 to 34,prefer not to answer,SF
+2577,25 to 34,prefer not to answer,LA
+2578,35 to 44,male,LA
+2579,25 to 34,female,CHI
+2580,35 to 44,prefer not to answer,SF
+2581,18 to 24,female,NYC
+2582,45 to 54,female,CHI
+2583,18 to 24,female,PHL
+2584,25 to 34,female,SF
+2585,25 to 34,prefer not to answer,DC
+2586,35 to 44,prefer not to answer,LA
+2587,25 to 34,non-binary,NYC
+2588,45 to 54,male,SF
+2589,35 to 44,female,NYC
+2590,35 to 44,female,None of above
+2591,35 to 44,female,LA
+2592,35 to 44,male,SF
+2593,25 to 34,female,None of above
+2594,35 to 44,female,SEA
+2595,35 to 44,female,None of above
+2596,35 to 44,female,NYC
+2597,18 to 24,female,LA
+2598,18 to 24,female,None of above
+2599,35 to 44,male,None of above
+2600,35 to 44,male,LA
+2601,35 to 44,prefer not to answer,SF
+2602,25 to 34,female,PHL
+2603,25 to 34,female,NYC
+2604,45 to 54,female,NYC
+2605,18 to 24,prefer not to answer,SF
+2606,35 to 44,female,PHL
+2607,25 to 34,female,SEA
+2608,25 to 34,female,SEA
+2609,25 to 34,female,SF
+2610,25 to 34,female,SF
+2611,25 to 34,male,SEA
+2612,35 to 44,female,None of above
+2613,25 to 34,female,LA
+2614,35 to 44,female,SEA
+2615,35 to 44,female,None of above
+2616,35 to 44,female,NYC
+2617,45 to 54,male,DC
+2618,35 to 44,female,DC
+2619,25 to 34,female,ATL
+2620,35 to 44,male,HOU
+2621,25 to 34,female,HOU
+2622,35 to 44,male,None of above
+2623,25 to 34,female,LA
+2624,35 to 44,female,SEA
+2625,25 to 34,male,None of above
+2626,25 to 34,female,DC
+2627,35 to 44,prefer not to answer,SF
+2628,25 to 34,male,LA
+2629,25 to 34,prefer not to answer,BOS
+2630,35 to 44,male,LA
+2631,35 to 44,male,None of above
+2632,18 to 24,female,DC
+2633,35 to 44,female,None of above
+2634,25 to 34,female,DC
+2635,35 to 44,female,SF
+2636,25 to 34,female,ATL
+2637,25 to 34,male,LA
+2638,35 to 44,female,HOU
+2639,25 to 34,male,SEA
+2640,25 to 34,male,DC
+2641,45 to 54,female,SEA
+2642,45 to 54,female,NYC
+2643,25 to 34,male,LA
+2644,35 to 44,female,SEA
+2645,35 to 44,female,LA
+2646,35 to 44,prefer not to answer,PHL
+2647,25 to 34,prefer not to answer,DC
+2648,35 to 44,prefer not to answer,NYC
+2649,25 to 34,female,SEA
+2650,25 to 34,female,SEA
+2651,35 to 44,prefer not to answer,NYC
+2652,45 to 54,male,SF
+2653,18 to 24,female,DC
+2654,35 to 44,female,None of above
+2655,25 to 34,male,SEA
+2656,18 to 24,male,LA
+2657,45 to 54,female,LA
+2658,45 to 54,female,HOU
+2659,25 to 34,female,NYC
+2660,18 to 24,prefer not to answer,None of above
+2661,25 to 34,female,NYC
+2662,25 to 34,prefer not to answer,SEA
+2663,45 to 54,male,LA
+2664,35 to 44,female,SF
+2665,35 to 44,female,SF
+2666,35 to 44,female,LA
+2667,25 to 34,male,SEA
+2668,25 to 34,female,PHL
+2669,18 to 24,male,PHL
+2670,35 to 44,female,DC
+2671,18 to 24,female,None of above
+2672,35 to 44,male,None of above
+2673,18 to 24,female,None of above
+2674,35 to 44,prefer not to answer,SF
+2675,45 to 54,male,None of above
+2676,25 to 34,prefer not to answer,PHL
+2677,35 to 44,male,None of above
+2678,35 to 44,male,SEA
+2679,35 to 44,female,None of above
+2680,45 to 54,male,LA
+2681,25 to 34,female,LA
+2682,25 to 34,prefer not to answer,None of above
+2683,25 to 34,female,SEA
+2684,18 to 24,male,None of above
+2685,25 to 34,female,SF
+2686,18 to 24,prefer not to answer,CHI
+2687,45 to 54,male,SF
+2688,25 to 34,female,SF
+2689,35 to 44,prefer not to answer,BOS
+2690,25 to 34,female,HOU
+2691,35 to 44,prefer not to answer,SF
+2692,45 to 54,female,SEA
+2693,25 to 34,female,SF
+2694,25 to 34,female,SF
+2695,25 to 34,female,SF
+2696,35 to 44,male,DC
+2697,25 to 34,female,None of above
+2698,25 to 34,female,LA
+2699,25 to 34,female,None of above
+2700,25 to 34,prefer not to answer,NYC
+2701,25 to 34,female,None of above
+2702,25 to 34,prefer not to answer,SEA
+2703,25 to 34,prefer not to answer,DC
+2704,25 to 34,prefer not to answer,LA
+2705,25 to 34,prefer not to answer,SF
+2706,25 to 34,female,NYC
+2707,25 to 34,female,SF
+2708,25 to 34,female,PHL
+2709,55+,female,SF
+2710,25 to 34,female,LA
+2711,35 to 44,female,PHL
+2712,25 to 34,female,LA
+2713,25 to 34,non-binary,DC
+2714,25 to 34,prefer not to answer,SEA
+2715,25 to 34,male,DC
+2716,45 to 54,non-binary,LA
+2717,35 to 44,prefer not to answer,DC
+2718,45 to 54,female,None of above
+2719,35 to 44,female,PHL
+2720,25 to 34,prefer not to answer,None of above
+2721,25 to 34,female,LA
+2722,25 to 34,non-binary,SF
+2723,25 to 34,female,SEA
+2724,25 to 34,female,BOS
+2725,25 to 34,male,LA
+2726,25 to 34,male,None of above
+2727,18 to 24,female,LA
+2728,18 to 24,female,LA
+2729,25 to 34,male,SEA
+2730,35 to 44,female,SEA
+2731,25 to 34,male,LA
+2732,35 to 44,female,ATL
+2733,25 to 34,male,NYC
+2734,35 to 44,prefer not to answer,HOU
+2735,35 to 44,male,None of above
+2736,18 to 24,male,SF
+2737,18 to 24,female,None of above
+2738,25 to 34,male,SF
+2739,25 to 34,female,SF
+2740,25 to 34,female,SEA
+2741,35 to 44,male,SF
+2742,35 to 44,prefer not to answer,LA
+2743,25 to 34,male,None of above
+2744,25 to 34,prefer not to answer,None of above
+2745,35 to 44,male,None of above
+2746,35 to 44,male,LA
+2747,45 to 54,male,LA
+2748,25 to 34,male,SF
+2749,55+,female,NYC
+2750,35 to 44,male,SEA
+2751,25 to 34,female,PHL
+2752,25 to 34,female,NYC
+2753,18 to 24,male,LA
+2754,18 to 24,female,SF
+2755,25 to 34,female,SF
+2756,45 to 54,female,None of above
+2757,18 to 24,female,SEA
+2758,35 to 44,male,DC
+2759,18 to 24,male,None of above
+2760,18 to 24,male,DC
+2761,25 to 34,prefer not to answer,SEA
+2762,45 to 54,female,BOS
+2763,25 to 34,female,SF
+2764,18 to 24,male,LA
+2765,35 to 44,female,SF
+2766,25 to 34,prefer not to answer,LA
+2767,18 to 24,prefer not to answer,None of above
+2768,18 to 24,male,HOU
+2769,25 to 34,male,CHI
+2770,45 to 54,male,SF
+2771,35 to 44,female,DC
+2772,25 to 34,female,LA
+2773,45 to 54,female,SF
+2774,45 to 54,female,LA
+2775,35 to 44,female,DC
+2776,25 to 34,female,SF
+2777,45 to 54,female,HOU
+2778,35 to 44,female,LA
+2779,25 to 34,female,NYC
+2780,18 to 24,female,LA
+2781,35 to 44,female,SF
+2782,25 to 34,female,LA
+2783,25 to 34,female,DC
+2784,45 to 54,male,DC
+2785,25 to 34,female,LA
+2786,35 to 44,female,SEA
+2787,25 to 34,female,SF
+2788,18 to 24,female,SEA
+2789,35 to 44,female,LA
+2790,35 to 44,female,SEA
+2791,25 to 34,male,LA
+2792,25 to 34,female,None of above
+2793,25 to 34,female,None of above
+2794,25 to 34,prefer not to answer,SF
+2795,35 to 44,female,NYC
+2796,25 to 34,female,SEA
+2797,35 to 44,male,None of above
+2798,18 to 24,non-binary,DC
+2799,25 to 34,female,HOU
+2800,25 to 34,female,None of above
+2801,25 to 34,female,DC
+2802,25 to 34,female,NYC
+2803,25 to 34,female,None of above
+2804,35 to 44,male,HOU
+2805,25 to 34,female,LA
+2806,25 to 34,non-binary,BOS
+2807,45 to 54,female,DC
+2808,35 to 44,male,SF
+2809,25 to 34,female,LA
+2810,25 to 34,male,LA
+2811,25 to 34,male,None of above
+2812,35 to 44,prefer not to answer,SF
+2813,25 to 34,prefer not to answer,DC
+2814,45 to 54,male,LA
+2815,25 to 34,prefer not to answer,DC
+2816,25 to 34,female,None of above
+2817,45 to 54,female,SF
+2818,35 to 44,prefer not to answer,NYC
+2819,45 to 54,female,ATL
+2820,25 to 34,female,NYC
+2821,35 to 44,female,LA
+2822,25 to 34,male,SF
+2823,25 to 34,male,SEA
+2824,45 to 54,female,LA
+2825,25 to 34,non-binary,LA
+2826,25 to 34,male,HOU
+2827,35 to 44,male,None of above
+2828,35 to 44,male,None of above
+2829,25 to 34,female,NYC
+2830,18 to 24,female,NYC
+2831,25 to 34,male,BOS
+2832,45 to 54,female,SF
+2833,35 to 44,female,LA
+2834,18 to 24,non-binary,LA
+2835,25 to 34,female,NYC
+2836,25 to 34,prefer not to answer,PHL
+2837,35 to 44,male,SEA
+2838,25 to 34,male,DC
+2839,35 to 44,female,DC
+2840,35 to 44,male,NYC
+2841,25 to 34,male,NYC
+2842,35 to 44,female,None of above
+2843,25 to 34,female,DC
+2844,25 to 34,female,LA
+2845,25 to 34,female,DC
+2846,25 to 34,female,LA
+2847,35 to 44,female,HOU
+2848,25 to 34,female,ATL
+2849,25 to 34,female,SEA
+2850,25 to 34,female,None of above
+2851,35 to 44,male,DC
+2852,35 to 44,female,PHL
+2853,25 to 34,prefer not to answer,SF
+2854,18 to 24,female,DC
+2855,35 to 44,female,SF
+2856,25 to 34,male,LA
+2857,35 to 44,non-binary,SEA
+2858,35 to 44,female,SF
+2859,35 to 44,prefer not to answer,SEA
+2860,45 to 54,female,LA
+2861,25 to 34,female,DC
+2862,35 to 44,male,SEA
+2863,35 to 44,male,HOU
+2864,35 to 44,female,CHI
+2865,25 to 34,male,LA
+2866,25 to 34,male,LA
+2867,35 to 44,female,PHL
+2868,25 to 34,male,LA
+2869,25 to 34,female,LA
+2870,45 to 54,female,CHI
+2871,25 to 34,female,HOU
+2872,25 to 34,prefer not to answer,SEA
+2873,35 to 44,female,DC
+2874,25 to 34,male,DC
+2875,45 to 54,male,SF
+2876,35 to 44,female,None of above
+2877,35 to 44,female,SF
+2878,35 to 44,female,LA
+2879,45 to 54,prefer not to answer,DC
+2880,45 to 54,female,SF
+2881,18 to 24,male,SF
+2882,18 to 24,female,SF
+2883,35 to 44,female,DC
+2884,25 to 34,female,LA
+2885,35 to 44,female,LA
+2886,25 to 34,male,DC
+2887,45 to 54,prefer not to answer,SF
+2888,55+,female,LA
+2889,25 to 34,male,LA
+2890,18 to 24,female,HOU
+2891,45 to 54,male,SEA
+2892,18 to 24,male,SEA
+2893,25 to 34,female,None of above
+2894,25 to 34,female,SF
+2895,35 to 44,female,DC
+2896,25 to 34,prefer not to answer,LA
+2897,18 to 24,female,NYC
+2898,18 to 24,female,SF
+2899,35 to 44,male,HOU
+2900,18 to 24,female,NYC
+2901,25 to 34,male,DC
+2902,25 to 34,prefer not to answer,LA
+2903,45 to 54,male,None of above
+2904,18 to 24,female,LA
+2905,35 to 44,female,DC
+2906,35 to 44,female,LA
+2907,45 to 54,female,None of above
+2908,55+,female,LA
+2909,25 to 34,female,DC
+2910,25 to 34,female,LA
+2911,35 to 44,female,SEA
+2912,25 to 34,female,SEA
+2913,25 to 34,female,SF
+2914,18 to 24,female,LA
+2915,35 to 44,prefer not to answer,SF
+2916,25 to 34,prefer not to answer,SF
+2917,45 to 54,male,SF
+2918,18 to 24,female,SEA
+2919,25 to 34,female,LA
+2920,25 to 34,female,None of above
+2921,25 to 34,female,PHL
+2922,25 to 34,female,SF
+2923,18 to 24,female,SF
+2924,18 to 24,female,LA
+2925,25 to 34,prefer not to answer,BOS
+2926,35 to 44,female,NYC
+2927,35 to 44,female,NYC
+2928,35 to 44,female,PHL
+2929,45 to 54,male,NYC
+2930,45 to 54,female,SEA
+2931,18 to 24,male,None of above
+2932,18 to 24,male,BOS
+2933,18 to 24,female,None of above
+2934,35 to 44,prefer not to answer,HOU
+2935,35 to 44,prefer not to answer,CHI
+2936,25 to 34,female,DC
+2937,45 to 54,male,SF
+2938,35 to 44,female,LA
+2939,35 to 44,prefer not to answer,SF
+2940,25 to 34,female,SEA
+2941,45 to 54,female,LA
+2942,35 to 44,prefer not to answer,None of above
+2943,25 to 34,prefer not to answer,DC
+2944,18 to 24,non-binary,None of above
+2945,25 to 34,female,LA
+2946,25 to 34,male,LA
+2947,35 to 44,female,LA
+2948,18 to 24,male,None of above
+2949,25 to 34,non-binary,SF
+2950,35 to 44,male,NYC
+2951,35 to 44,male,SEA
+2952,25 to 34,female,SF
+2953,25 to 34,prefer not to answer,None of above
+2954,35 to 44,non-binary,None of above
+2955,25 to 34,male,HOU
+2956,35 to 44,male,None of above
+2957,25 to 34,female,DC
+2958,25 to 34,non-binary,DC
+2959,35 to 44,female,None of above
+2960,35 to 44,female,DC
+2961,25 to 34,male,NYC
+2962,35 to 44,prefer not to answer,LA
+2963,35 to 44,female,SF
+2964,45 to 54,female,None of above
+2965,25 to 34,female,SF
+2966,25 to 34,male,LA
+2967,35 to 44,female,HOU
+2968,35 to 44,female,DC
+2969,35 to 44,female,SEA
+2970,25 to 34,female,CHI
+2971,25 to 34,female,SF
+2972,25 to 34,female,ATL
+2973,35 to 44,female,SF
+2974,45 to 54,female,None of above
+2975,18 to 24,female,HOU
+2976,25 to 34,female,DC
+2977,25 to 34,prefer not to answer,None of above
+2978,18 to 24,prefer not to answer,SF
+2979,25 to 34,male,LA
+2980,35 to 44,prefer not to answer,HOU
+2981,18 to 24,female,DC
+2982,45 to 54,female,PHL
+2983,25 to 34,prefer not to answer,NYC
+2984,35 to 44,female,LA
+2985,18 to 24,female,None of above
+2986,35 to 44,female,None of above
+2987,45 to 54,male,HOU
+2988,25 to 34,female,NYC
+2989,35 to 44,female,DC
+2990,18 to 24,prefer not to answer,SF
+2991,45 to 54,male,SEA
+2992,25 to 34,prefer not to answer,None of above
+2993,35 to 44,female,None of above
+2994,18 to 24,male,CHI
+2995,45 to 54,male,LA
+2996,18 to 24,male,SF
+2997,25 to 34,male,None of above
+2998,35 to 44,male,LA
+2999,18 to 24,female,LA
+3000,35 to 44,female,BOS
+3001,25 to 34,male,NYC
+3002,25 to 34,male,None of above
+3003,35 to 44,male,LA
+3004,25 to 34,prefer not to answer,None of above
+3005,25 to 34,male,DC
+3006,25 to 34,prefer not to answer,NYC
+3007,25 to 34,female,SF
+3008,45 to 54,male,LA
+3009,35 to 44,female,SF
+3010,25 to 34,female,SF
+3011,25 to 34,non-binary,LA
+3012,35 to 44,female,BOS
+3013,25 to 34,male,SF
+3014,35 to 44,prefer not to answer,LA
+3015,25 to 34,prefer not to answer,None of above
+3016,35 to 44,female,LA
+3017,25 to 34,prefer not to answer,CHI
+3018,25 to 34,female,NYC
+3019,25 to 34,female,SF
+3020,45 to 54,prefer not to answer,LA
+3021,35 to 44,female,PHL
+3022,35 to 44,prefer not to answer,SF
+3023,18 to 24,female,ATL
+3024,18 to 24,prefer not to answer,None of above
+3025,25 to 34,female,DC
+3026,25 to 34,male,DC
+3027,25 to 34,female,LA
+3028,18 to 24,prefer not to answer,SEA
+3029,25 to 34,male,SF
+3030,18 to 24,female,SF
+3031,25 to 34,female,NYC
+3032,35 to 44,male,SF
+3033,25 to 34,female,LA
+3034,35 to 44,female,SF
+3035,35 to 44,male,SEA
+3036,18 to 24,male,DC
+3037,45 to 54,prefer not to answer,NYC
+3038,18 to 24,female,None of above
+3039,25 to 34,male,SF
+3040,25 to 34,male,SEA
+3041,35 to 44,male,DC
+3042,35 to 44,prefer not to answer,None of above
+3043,35 to 44,female,CHI
+3044,35 to 44,prefer not to answer,None of above
+3045,25 to 34,female,None of above
+3046,25 to 34,female,SF
+3047,18 to 24,male,LA
+3048,45 to 54,female,SF
+3049,25 to 34,prefer not to answer,None of above
+3050,18 to 24,female,LA
+3051,45 to 54,female,SF
+3052,25 to 34,male,LA
+3053,35 to 44,male,LA
+3054,25 to 34,non-binary,BOS
+3055,45 to 54,female,PHL
+3056,25 to 34,prefer not to answer,SEA
+3057,25 to 34,male,PHL
+3058,18 to 24,female,NYC
+3059,35 to 44,female,SEA
+3060,35 to 44,female,BOS
+3061,25 to 34,female,HOU
+3062,18 to 24,female,SF
+3063,35 to 44,male,NYC
+3064,45 to 54,male,SF
+3065,25 to 34,female,LA
+3066,25 to 34,prefer not to answer,LA
+3067,35 to 44,non-binary,LA
+3068,25 to 34,female,LA
+3069,35 to 44,prefer not to answer,DC
+3070,25 to 34,female,DC
+3071,18 to 24,prefer not to answer,LA
+3072,25 to 34,female,LA
+3073,25 to 34,female,CHI
+3074,45 to 54,female,DC
+3075,45 to 54,female,SF
+3076,25 to 34,female,SF
+3077,35 to 44,female,DC
+3078,25 to 34,female,SF
+3079,18 to 24,male,DC
+3080,35 to 44,female,BOS
+3081,35 to 44,male,SF
+3082,45 to 54,female,LA
+3083,35 to 44,male,DC
+3084,35 to 44,prefer not to answer,PHL
+3085,25 to 34,male,BOS
+3086,25 to 34,female,SF
+3087,25 to 34,prefer not to answer,SF
+3088,18 to 24,male,DC
+3089,35 to 44,female,NYC
+3090,25 to 34,female,SF
+3091,35 to 44,female,HOU
+3092,35 to 44,male,NYC
+3093,25 to 34,female,NYC
+3094,35 to 44,female,None of above
+3095,45 to 54,male,SF
+3096,25 to 34,female,SF
+3097,25 to 34,prefer not to answer,ATL
+3098,25 to 34,female,NYC
+3099,18 to 24,male,LA
+3100,35 to 44,female,LA
+3101,25 to 34,female,None of above
+3102,35 to 44,female,PHL
+3103,25 to 34,male,LA
+3104,18 to 24,male,LA
+3105,45 to 54,female,BOS
+3106,35 to 44,male,SF
+3107,25 to 34,female,None of above
+3108,18 to 24,female,NYC
+3109,25 to 34,female,DC
+3110,25 to 34,female,SF
+3111,35 to 44,prefer not to answer,None of above
+3112,45 to 54,female,SF
+3113,18 to 24,female,DC
+3114,25 to 34,prefer not to answer,LA
+3115,18 to 24,male,SF
+3116,35 to 44,female,HOU
+3117,25 to 34,female,BOS
+3118,25 to 34,female,LA
+3119,45 to 54,male,CHI
+3120,45 to 54,female,SEA
+3121,45 to 54,male,NYC
+3122,25 to 34,female,SF
+3123,18 to 24,non-binary,SF
+3124,25 to 34,male,PHL
+3125,25 to 34,female,LA
+3126,18 to 24,female,LA
+3127,35 to 44,prefer not to answer,DC
+3128,25 to 34,prefer not to answer,SEA
+3129,35 to 44,female,BOS
+3130,35 to 44,female,SEA
+3131,25 to 34,female,NYC
+3132,35 to 44,female,NYC
+3133,25 to 34,prefer not to answer,SF
+3134,35 to 44,male,HOU
+3135,35 to 44,male,HOU
+3136,35 to 44,male,SF
+3137,45 to 54,male,LA
+3138,25 to 34,female,SEA
+3139,25 to 34,female,NYC
+3140,25 to 34,female,DC
+3141,35 to 44,prefer not to answer,None of above
+3142,45 to 54,female,LA
+3143,25 to 34,prefer not to answer,SF
+3144,25 to 34,female,None of above
+3145,45 to 54,male,NYC
+3146,25 to 34,male,None of above
+3147,45 to 54,female,DC
+3148,35 to 44,non-binary,DC
+3149,25 to 34,female,LA
+3150,25 to 34,male,LA
+3151,35 to 44,female,CHI
+3152,55+,female,PHL
+3153,25 to 34,female,ATL
+3154,35 to 44,female,LA
+3155,35 to 44,male,DC
+3156,35 to 44,female,None of above
+3157,18 to 24,male,LA
+3158,25 to 34,male,SF
+3159,25 to 34,prefer not to answer,LA
+3160,35 to 44,female,LA
+3161,45 to 54,male,PHL
+3162,25 to 34,male,DC
+3163,25 to 34,female,ATL
+3164,25 to 34,non-binary,LA
+3165,18 to 24,female,None of above
+3166,25 to 34,male,DC
+3167,25 to 34,male,None of above
+3168,35 to 44,prefer not to answer,SF
+3169,35 to 44,male,SF
+3170,35 to 44,male,PHL
+3171,35 to 44,female,NYC
+3172,25 to 34,female,LA
+3173,25 to 34,prefer not to answer,LA
+3174,35 to 44,female,None of above
+3175,35 to 44,female,SEA
+3176,18 to 24,non-binary,SEA
+3177,18 to 24,female,SEA
+3178,25 to 34,female,SEA
+3179,25 to 34,female,SF
+3180,25 to 34,male,NYC
+3181,18 to 24,non-binary,LA
+3182,25 to 34,female,SF
+3183,35 to 44,male,SF
+3184,35 to 44,female,None of above
+3185,35 to 44,female,LA
+3186,25 to 34,male,None of above
+3187,35 to 44,female,HOU
+3188,18 to 24,female,NYC
+3189,45 to 54,female,SEA
+3190,18 to 24,prefer not to answer,DC
+3191,25 to 34,male,None of above
+3192,35 to 44,male,SEA
+3193,35 to 44,non-binary,DC
+3194,45 to 54,male,None of above
+3195,35 to 44,male,LA
+3196,18 to 24,female,None of above
+3197,25 to 34,female,SEA
+3198,25 to 34,prefer not to answer,SEA
+3199,25 to 34,male,DC
+3200,25 to 34,prefer not to answer,DC
+3201,18 to 24,male,NYC
+3202,25 to 34,male,LA
+3203,55+,female,PHL
+3204,35 to 44,female,SEA
+3205,35 to 44,male,SEA
+3206,25 to 34,female,NYC
+3207,25 to 34,male,DC
+3208,25 to 34,male,BOS
+3209,25 to 34,female,HOU
+3210,35 to 44,prefer not to answer,CHI
+3211,18 to 24,non-binary,CHI
+3212,25 to 34,female,SF
+3213,18 to 24,female,PHL
+3214,18 to 24,prefer not to answer,DC
+3215,25 to 34,female,DC
+3216,25 to 34,male,None of above
+3217,55+,female,None of above
+3218,25 to 34,female,DC
+3219,35 to 44,male,HOU
+3220,18 to 24,female,LA
+3221,35 to 44,prefer not to answer,SEA
+3222,25 to 34,male,None of above
+3223,25 to 34,prefer not to answer,SF
+3224,25 to 34,prefer not to answer,DC
+3225,35 to 44,male,LA
+3226,18 to 24,female,LA
+3227,25 to 34,prefer not to answer,SEA
+3228,35 to 44,male,SEA
+3229,25 to 34,male,None of above
+3230,25 to 34,male,NYC
+3231,25 to 34,female,LA
+3232,25 to 34,female,SF
+3233,45 to 54,prefer not to answer,ATL
+3234,18 to 24,male,SF
+3235,25 to 34,male,DC
+3236,25 to 34,male,LA
+3237,25 to 34,male,LA
+3238,35 to 44,female,SF
+3239,18 to 24,prefer not to answer,PHL
+3240,25 to 34,female,None of above
+3241,45 to 54,male,None of above
+3242,35 to 44,male,SF
+3243,25 to 34,prefer not to answer,DC
+3244,25 to 34,female,None of above
+3245,25 to 34,male,PHL
+3246,35 to 44,male,LA
+3247,35 to 44,female,SEA
+3248,18 to 24,female,LA
+3249,35 to 44,prefer not to answer,CHI
+3250,25 to 34,male,BOS
+3251,18 to 24,male,SF
+3252,35 to 44,male,LA
+3253,45 to 54,female,NYC
+3254,25 to 34,female,SF
+3255,25 to 34,female,None of above
+3256,25 to 34,female,HOU
+3257,35 to 44,female,DC
+3258,35 to 44,female,SF
+3259,25 to 34,female,SF
+3260,35 to 44,female,SEA
+3261,35 to 44,male,NYC
+3262,18 to 24,female,NYC
+3263,25 to 34,female,SF
+3264,25 to 34,female,SF
+3265,35 to 44,female,None of above
+3266,18 to 24,female,SF
+3267,25 to 34,male,BOS
+3268,35 to 44,male,PHL
+3269,25 to 34,male,SF
+3270,25 to 34,female,None of above
+3271,25 to 34,non-binary,DC
+3272,25 to 34,female,LA
+3273,35 to 44,female,LA
+3274,18 to 24,male,SEA
+3275,35 to 44,prefer not to answer,SF
+3276,35 to 44,prefer not to answer,LA
+3277,18 to 24,male,NYC
+3278,25 to 34,non-binary,SF
+3279,35 to 44,female,SF
+3280,18 to 24,female,LA
+3281,35 to 44,male,None of above
+3282,35 to 44,non-binary,LA
+3283,35 to 44,female,LA
+3284,55+,female,DC
+3285,45 to 54,female,NYC
+3286,25 to 34,prefer not to answer,NYC
+3287,25 to 34,female,LA
+3288,35 to 44,prefer not to answer,LA
+3289,25 to 34,female,LA
+3290,35 to 44,male,SF
+3291,25 to 34,female,None of above
+3292,18 to 24,female,None of above
+3293,25 to 34,female,None of above
+3294,35 to 44,female,None of above
+3295,18 to 24,female,LA
+3296,35 to 44,prefer not to answer,LA
+3297,25 to 34,female,NYC
+3298,25 to 34,prefer not to answer,NYC
+3299,35 to 44,prefer not to answer,SF
+3300,35 to 44,female,SEA
+3301,35 to 44,female,NYC
+3302,35 to 44,female,None of above
+3303,25 to 34,female,PHL
+3304,25 to 34,male,HOU
+3305,35 to 44,prefer not to answer,SF
+3306,35 to 44,female,None of above
+3307,45 to 54,female,LA
+3308,35 to 44,female,ATL
+3309,25 to 34,male,PHL
+3310,45 to 54,female,SF
+3311,25 to 34,non-binary,None of above
+3312,35 to 44,prefer not to answer,SF
+3313,25 to 34,male,SF
+3314,35 to 44,prefer not to answer,DC
+3315,45 to 54,prefer not to answer,NYC
+3316,35 to 44,female,HOU
+3317,35 to 44,male,LA
+3318,35 to 44,female,None of above
+3319,35 to 44,female,LA
+3320,45 to 54,male,SF
+3321,18 to 24,female,SF
+3322,35 to 44,prefer not to answer,DC
+3323,45 to 54,female,None of above
+3324,25 to 34,prefer not to answer,None of above
+3325,18 to 24,male,None of above
+3326,35 to 44,male,DC
+3327,35 to 44,male,LA
+3328,45 to 54,female,NYC
+3329,35 to 44,female,DC
+3330,25 to 34,female,SEA
+3331,45 to 54,female,DC
+3332,35 to 44,male,LA
+3333,25 to 34,male,NYC
+3334,25 to 34,non-binary,None of above
+3335,35 to 44,female,DC
+3336,25 to 34,female,SEA
+3337,45 to 54,male,SF
+3338,35 to 44,prefer not to answer,SF
+3339,35 to 44,female,LA
+3340,45 to 54,female,LA
+3341,35 to 44,male,LA
+3342,35 to 44,female,DC
+3343,55+,female,None of above
+3344,35 to 44,female,LA
+3345,18 to 24,female,SF
+3346,25 to 34,male,LA
+3347,45 to 54,female,SF
+3348,25 to 34,female,NYC
+3349,35 to 44,female,None of above
+3350,35 to 44,male,DC
+3351,35 to 44,female,LA
+3352,18 to 24,prefer not to answer,SF
+3353,35 to 44,prefer not to answer,HOU
+3354,35 to 44,female,CHI
+3355,55+,female,SEA
+3356,35 to 44,female,DC
+3357,25 to 34,prefer not to answer,HOU
+3358,35 to 44,female,None of above
+3359,25 to 34,male,LA
+3360,35 to 44,female,PHL
+3361,25 to 34,female,BOS
+3362,18 to 24,non-binary,DC
+3363,25 to 34,female,ATL
+3364,35 to 44,prefer not to answer,SEA
+3365,25 to 34,male,LA
+3366,35 to 44,female,NYC
+3367,35 to 44,prefer not to answer,None of above
+3368,18 to 24,male,LA
+3369,25 to 34,female,SF
+3370,18 to 24,female,SEA
+3371,25 to 34,female,LA
+3372,25 to 34,prefer not to answer,HOU
+3373,35 to 44,female,None of above
+3374,25 to 34,male,LA
+3375,55+,prefer not to answer,SF
+3376,25 to 34,female,BOS
+3377,35 to 44,female,SEA
+3378,18 to 24,male,DC
+3379,45 to 54,female,SF
+3380,25 to 34,female,HOU
+3381,45 to 54,male,SF
+3382,25 to 34,female,LA
+3383,25 to 34,male,LA
+3384,25 to 34,male,LA
+3385,45 to 54,female,None of above
+3386,55+,prefer not to answer,SF
+3387,35 to 44,female,DC
+3388,18 to 24,male,DC
+3389,35 to 44,male,LA
+3390,18 to 24,prefer not to answer,LA
+3391,25 to 34,prefer not to answer,LA
+3392,35 to 44,female,LA
+3393,25 to 34,prefer not to answer,None of above
+3394,25 to 34,female,SF
+3395,25 to 34,female,SF
+3396,35 to 44,non-binary,PHL
+3397,55+,male,SEA
+3398,18 to 24,male,LA
+3399,25 to 34,prefer not to answer,SF
+3400,25 to 34,female,LA
+3401,18 to 24,female,None of above
+3402,25 to 34,male,LA
+3403,55+,male,SF
+3404,25 to 34,female,None of above
+3405,35 to 44,female,None of above
+3406,25 to 34,male,None of above
+3407,25 to 34,female,NYC
+3408,35 to 44,female,LA
+3409,25 to 34,female,LA
+3410,45 to 54,male,HOU
+3411,25 to 34,male,BOS
+3412,25 to 34,male,NYC
+3413,45 to 54,female,DC
+3414,25 to 34,male,None of above
+3415,35 to 44,male,SF
+3416,18 to 24,male,SF
+3417,25 to 34,female,SF
+3418,35 to 44,male,LA
+3419,25 to 34,male,SF
+3420,25 to 34,male,SF
+3421,35 to 44,female,DC
+3422,25 to 34,prefer not to answer,SF
+3423,45 to 54,non-binary,LA
+3424,18 to 24,male,SF
+3425,35 to 44,male,LA
+3426,25 to 34,prefer not to answer,LA
+3427,25 to 34,female,None of above
+3428,25 to 34,male,PHL
+3429,35 to 44,female,HOU
+3430,25 to 34,non-binary,HOU
+3431,25 to 34,female,LA
+3432,45 to 54,female,None of above
+3433,18 to 24,male,HOU
+3434,25 to 34,female,SF
+3435,35 to 44,prefer not to answer,SF
+3436,25 to 34,female,DC
+3437,25 to 34,female,LA
+3438,35 to 44,male,SF
+3439,25 to 34,female,SF
+3440,25 to 34,female,DC
+3441,25 to 34,female,NYC
+3442,35 to 44,prefer not to answer,None of above
+3443,25 to 34,prefer not to answer,None of above
+3444,35 to 44,male,HOU
+3445,35 to 44,female,HOU
+3446,18 to 24,male,DC
+3447,18 to 24,male,SF
+3448,18 to 24,prefer not to answer,HOU
+3449,35 to 44,prefer not to answer,SEA
+3450,35 to 44,female,LA
+3451,35 to 44,prefer not to answer,None of above
+3452,25 to 34,female,DC
+3453,18 to 24,female,LA
+3454,35 to 44,male,DC
+3455,25 to 34,prefer not to answer,LA
+3456,25 to 34,prefer not to answer,LA
+3457,35 to 44,non-binary,PHL
+3458,18 to 24,female,DC
+3459,35 to 44,female,LA
+3460,55+,prefer not to answer,SF
+3461,25 to 34,female,DC
+3462,18 to 24,male,BOS
+3463,35 to 44,female,SF
+3464,25 to 34,female,SF
+3465,25 to 34,female,SF
+3466,25 to 34,male,LA
+3467,25 to 34,female,CHI
+3468,35 to 44,female,SF
+3469,55+,female,LA
+3470,45 to 54,male,HOU
+3471,25 to 34,male,SEA
+3472,25 to 34,female,SEA
+3473,45 to 54,female,DC
+3474,25 to 34,prefer not to answer,LA
+3475,35 to 44,female,ATL
+3476,25 to 34,non-binary,NYC
+3477,25 to 34,female,CHI
+3478,35 to 44,female,BOS
+3479,25 to 34,prefer not to answer,SEA
+3480,35 to 44,female,SF
+3481,55+,female,ATL
+3482,45 to 54,female,LA
+3483,25 to 34,female,SF
+3484,25 to 34,female,None of above
+3485,35 to 44,female,LA
+3486,25 to 34,male,ATL
+3487,25 to 34,female,None of above
+3488,18 to 24,female,SEA
+3489,35 to 44,male,SF
+3490,25 to 34,male,DC
+3491,35 to 44,female,SF
+3492,35 to 44,female,None of above
+3493,18 to 24,female,None of above
+3494,25 to 34,female,DC
+3495,35 to 44,female,HOU
+3496,45 to 54,prefer not to answer,DC
+3497,25 to 34,female,LA
+3498,45 to 54,female,LA
+3499,25 to 34,female,SEA
+3500,35 to 44,male,HOU
+3501,25 to 34,female,LA
+3502,35 to 44,female,None of above
+3503,25 to 34,non-binary,SF
+3504,25 to 34,male,LA
+3505,25 to 34,female,None of above
+3506,45 to 54,male,LA
+3507,25 to 34,male,SF
+3508,25 to 34,male,DC
+3509,35 to 44,male,None of above
+3510,25 to 34,female,SEA
+3511,25 to 34,male,HOU
+3512,25 to 34,male,LA
+3513,18 to 24,male,BOS
+3514,25 to 34,non-binary,SEA
+3515,25 to 34,male,SEA
+3516,45 to 54,prefer not to answer,SF
+3517,18 to 24,female,SEA
+3518,25 to 34,female,None of above
+3519,25 to 34,prefer not to answer,SF
+3520,25 to 34,female,None of above
+3521,45 to 54,female,SEA
+3522,25 to 34,female,SF
+3523,18 to 24,female,DC
+3524,25 to 34,female,HOU
+3525,35 to 44,male,LA
+3526,25 to 34,male,NYC
+3527,35 to 44,female,None of above
+3528,45 to 54,male,SF
+3529,35 to 44,male,LA
+3530,35 to 44,female,LA
+3531,25 to 34,female,SF
+3532,45 to 54,female,DC
+3533,35 to 44,male,DC
+3534,35 to 44,female,PHL
+3535,18 to 24,male,NYC
+3536,55+,female,SF
+3537,45 to 54,male,None of above
+3538,25 to 34,female,HOU
+3539,35 to 44,female,LA
+3540,35 to 44,female,NYC
+3541,25 to 34,male,SF
+3542,35 to 44,female,LA
+3543,25 to 34,female,None of above
+3544,25 to 34,female,None of above
+3545,25 to 34,male,DC
+3546,18 to 24,male,DC
+3547,25 to 34,female,None of above
+3548,18 to 24,female,CHI
+3549,35 to 44,female,SF
+3550,25 to 34,prefer not to answer,SEA
+3551,18 to 24,male,LA
+3552,35 to 44,female,PHL
+3553,35 to 44,female,LA
+3554,25 to 34,male,NYC
+3555,18 to 24,prefer not to answer,None of above
+3556,35 to 44,male,SF
+3557,25 to 34,female,SF
+3558,35 to 44,prefer not to answer,SF
+3559,35 to 44,male,SF
+3560,25 to 34,male,LA
+3561,25 to 34,female,LA
+3562,25 to 34,prefer not to answer,NYC
+3563,25 to 34,prefer not to answer,NYC
+3564,25 to 34,female,DC
+3565,35 to 44,female,LA
+3566,25 to 34,female,NYC
+3567,25 to 34,female,PHL
+3568,25 to 34,prefer not to answer,DC
+3569,25 to 34,prefer not to answer,SF
+3570,35 to 44,prefer not to answer,None of above
+3571,18 to 24,prefer not to answer,SF
+3572,25 to 34,female,None of above
+3573,25 to 34,female,SF
+3574,25 to 34,male,ATL
+3575,25 to 34,female,CHI
+3576,35 to 44,prefer not to answer,LA
+3577,35 to 44,female,HOU
+3578,25 to 34,male,SEA
+3579,55+,male,DC
+3580,35 to 44,male,None of above
+3581,45 to 54,female,CHI
+3582,25 to 34,female,None of above
+3583,25 to 34,prefer not to answer,SEA
+3584,25 to 34,male,SEA
+3585,18 to 24,female,None of above
+3586,25 to 34,female,SF
+3587,25 to 34,male,None of above
+3588,25 to 34,female,LA
+3589,25 to 34,female,SF
+3590,55+,male,LA
+3591,35 to 44,female,HOU
+3592,35 to 44,prefer not to answer,NYC
+3593,45 to 54,female,BOS
+3594,18 to 24,female,SF
+3595,25 to 34,female,NYC
+3596,25 to 34,female,PHL
+3597,35 to 44,female,None of above
+3598,35 to 44,female,DC
+3599,45 to 54,male,LA
+3600,25 to 34,female,SF
+3601,25 to 34,female,SF
+3602,25 to 34,female,None of above
+3603,35 to 44,male,None of above
+3604,25 to 34,prefer not to answer,DC
+3605,35 to 44,male,None of above
+3606,35 to 44,female,SEA
+3607,35 to 44,prefer not to answer,DC
+3608,35 to 44,male,SEA
+3609,25 to 34,female,NYC
+3610,35 to 44,prefer not to answer,DC
+3611,25 to 34,prefer not to answer,LA
+3612,25 to 34,female,LA
+3613,25 to 34,female,SEA
+3614,45 to 54,female,SF
+3615,35 to 44,female,ATL
+3616,18 to 24,female,LA
+3617,35 to 44,female,NYC
+3618,18 to 24,female,BOS
+3619,35 to 44,female,SEA
+3620,35 to 44,female,SEA
+3621,25 to 34,male,PHL
+3622,25 to 34,prefer not to answer,DC
+3623,35 to 44,prefer not to answer,HOU
+3624,45 to 54,female,None of above
+3625,25 to 34,female,SF
+3626,18 to 24,male,SF
+3627,35 to 44,female,SEA
+3628,25 to 34,female,None of above
+3629,35 to 44,male,HOU
+3630,25 to 34,female,SF
+3631,35 to 44,female,DC
+3632,18 to 24,prefer not to answer,NYC
+3633,35 to 44,male,LA
+3634,35 to 44,non-binary,NYC
+3635,35 to 44,prefer not to answer,DC
+3636,45 to 54,female,None of above
+3637,45 to 54,male,SEA
+3638,25 to 34,male,None of above
+3639,18 to 24,female,LA
+3640,35 to 44,female,LA
+3641,25 to 34,male,SF
+3642,25 to 34,prefer not to answer,PHL
+3643,35 to 44,male,None of above
+3644,35 to 44,female,SF
+3645,25 to 34,female,LA
+3646,35 to 44,female,None of above
+3647,45 to 54,male,LA
+3648,35 to 44,female,SEA
+3649,25 to 34,female,PHL
+3650,35 to 44,prefer not to answer,ATL
+3651,25 to 34,prefer not to answer,SEA
+3652,35 to 44,male,None of above
+3653,25 to 34,female,LA
+3654,35 to 44,female,SEA
+3655,35 to 44,non-binary,LA
+3656,25 to 34,female,LA
+3657,35 to 44,female,DC
+3658,35 to 44,male,DC
+3659,35 to 44,male,LA
+3660,25 to 34,female,PHL
+3661,35 to 44,prefer not to answer,LA
+3662,25 to 34,prefer not to answer,SF
+3663,25 to 34,male,PHL
+3664,25 to 34,female,CHI
+3665,55+,prefer not to answer,ATL
+3666,25 to 34,female,LA
+3667,35 to 44,female,BOS
+3668,18 to 24,prefer not to answer,SEA
+3669,25 to 34,female,SF
+3670,25 to 34,prefer not to answer,PHL
+3671,35 to 44,female,LA
+3672,25 to 34,female,SF
+3673,25 to 34,male,SF
+3674,55+,female,None of above
+3675,25 to 34,female,SF
+3676,25 to 34,female,CHI
+3677,18 to 24,female,SF
+3678,18 to 24,male,SEA
+3679,18 to 24,male,PHL
+3680,25 to 34,prefer not to answer,SF
+3681,25 to 34,male,SF
+3682,25 to 34,female,LA
+3683,45 to 54,female,SEA
+3684,25 to 34,prefer not to answer,SF
+3685,45 to 54,female,PHL
+3686,35 to 44,prefer not to answer,LA
+3687,55+,prefer not to answer,None of above
+3688,55+,female,DC
+3689,25 to 34,male,LA
+3690,35 to 44,female,HOU
+3691,25 to 34,female,SEA
+3692,35 to 44,female,SF
+3693,25 to 34,prefer not to answer,NYC
+3694,25 to 34,prefer not to answer,SF
+3695,35 to 44,prefer not to answer,LA
+3696,25 to 34,female,LA
+3697,25 to 34,male,None of above
+3698,45 to 54,female,SF
+3699,35 to 44,male,SEA
+3700,25 to 34,female,LA
+3701,25 to 34,female,SEA
+3702,25 to 34,prefer not to answer,CHI
+3703,35 to 44,male,SF
+3704,55+,prefer not to answer,NYC
+3705,55+,female,SF
+3706,35 to 44,female,LA
+3707,55+,prefer not to answer,DC
+3708,25 to 34,prefer not to answer,SF
+3709,35 to 44,non-binary,PHL
+3710,25 to 34,prefer not to answer,LA
+3711,25 to 34,female,DC
+3712,25 to 34,male,None of above
+3713,25 to 34,non-binary,HOU
+3714,25 to 34,male,None of above
+3715,25 to 34,female,None of above
+3716,25 to 34,male,SF
+3717,45 to 54,female,NYC
+3718,25 to 34,prefer not to answer,None of above
+3719,25 to 34,female,SEA
+3720,25 to 34,female,NYC
+3721,35 to 44,female,ATL
+3722,25 to 34,female,None of above
+3723,18 to 24,non-binary,LA
+3724,18 to 24,male,None of above
+3725,35 to 44,male,None of above
+3726,25 to 34,male,ATL
+3727,18 to 24,male,SF
+3728,35 to 44,prefer not to answer,PHL
+3729,25 to 34,female,NYC
+3730,25 to 34,male,NYC
+3731,25 to 34,male,BOS
+3732,55+,male,None of above
+3733,45 to 54,male,LA
+3734,25 to 34,female,HOU
+3735,25 to 34,female,None of above
+3736,25 to 34,female,DC
+3737,35 to 44,female,DC
+3738,35 to 44,female,SF
+3739,18 to 24,non-binary,SF
+3740,35 to 44,male,LA
+3741,18 to 24,female,NYC
+3742,25 to 34,male,DC
+3743,35 to 44,female,SEA
+3744,35 to 44,male,LA
+3745,25 to 34,prefer not to answer,SF
+3746,18 to 24,female,SEA
+3747,45 to 54,non-binary,SEA
+3748,18 to 24,male,NYC
+3749,25 to 34,female,DC
+3750,25 to 34,female,SF
+3751,35 to 44,female,LA
+3752,45 to 54,prefer not to answer,LA
+3753,25 to 34,female,None of above
+3754,35 to 44,prefer not to answer,NYC
+3755,18 to 24,male,SF
+3756,25 to 34,prefer not to answer,SEA
+3757,35 to 44,male,HOU
+3758,35 to 44,male,DC
+3759,35 to 44,male,LA
+3760,35 to 44,female,None of above
+3761,45 to 54,female,ATL
+3762,45 to 54,female,SF
+3763,25 to 34,female,None of above
+3764,35 to 44,non-binary,SF
+3765,55+,female,SEA
+3766,35 to 44,female,LA
+3767,25 to 34,female,LA
+3768,25 to 34,male,None of above
+3769,25 to 34,female,SF
+3770,25 to 34,male,DC
+3771,18 to 24,female,DC
+3772,25 to 34,female,SF
+3773,25 to 34,female,SEA
+3774,18 to 24,female,NYC
+3775,18 to 24,female,SF
+3776,18 to 24,non-binary,LA
+3777,55+,female,LA
+3778,35 to 44,female,HOU
+3779,25 to 34,female,None of above
+3780,35 to 44,female,SF
+3781,25 to 34,female,SF
+3782,35 to 44,female,HOU
+3783,45 to 54,male,NYC
+3784,25 to 34,female,DC
+3785,35 to 44,male,LA
+3786,35 to 44,female,SF
+3787,25 to 34,male,None of above
+3788,25 to 34,prefer not to answer,None of above
+3789,25 to 34,female,PHL
+3790,35 to 44,female,LA
+3791,25 to 34,female,SF
+3792,25 to 34,male,DC
+3793,25 to 34,female,LA
+3794,18 to 24,female,LA
+3795,35 to 44,female,SEA
+3796,35 to 44,female,SF
+3797,35 to 44,female,ATL
+3798,35 to 44,female,BOS
+3799,35 to 44,prefer not to answer,LA
+3800,25 to 34,female,LA
+3801,25 to 34,male,SF
+3802,45 to 54,male,HOU
+3803,25 to 34,female,SEA
+3804,18 to 24,male,None of above
+3805,35 to 44,prefer not to answer,LA
+3806,45 to 54,male,LA
+3807,25 to 34,female,SEA
+3808,35 to 44,female,DC
+3809,25 to 34,prefer not to answer,DC
+3810,25 to 34,female,DC
+3811,45 to 54,female,DC
